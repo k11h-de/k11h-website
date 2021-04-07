@@ -8,7 +8,7 @@ menu_item: 1
 # vita
 |          |                    |
 | :-------------------------|:-------------------------:|
-| **Karsten Brusch**<br><br>Senior DevOps Engineer<br>Jahrgang 1982<br><br><br><samp>vita<br>├─ 200[3-5]   Studium Wirtschaftsinformatik<br>│             Berufsakademie Berlin<br>│<br>├─ 200[6-8]   IT / Callcenter<br>│             bluepartner GmbH Berlin<br>│<br>├─ 2008       Technical Support Engineer<br>│             Microsoft & HP Dublin Ireland<br>│<br>├─ 20[08-12]  Tech Lead 2nd Level Support<br>│             Synchronica GmbH Berlin<br>│<br>├─ 20[12-18]  Operations / DevOps Engineer<br>│             Cornelen Verlag GmbH Berlin<br>│<br>└─ 20[19-21]  Senior DevOps Engineer<br>              Cornelen Verlag GmbH Berlin</samp>| ![portrait]({static}/images/portrait-klein.jpg) |
+| **Karsten Brusch**<br><br>Senior DevOps Engineer<br>Jahrgang 1982<br><br><samp>vita<br>├─ 20[03-05]  Studium Wirtschaftsinformatik<br>│             Berufsakademie Berlin<br>│<br>├─ 20[06-08]  IT / Callcenter<br>│             bluepartner GmbH Berlin<br>│<br>├─ 2008       Technical Support Engineer<br>│             Microsoft & HP Dublin Ireland<br>│<br>├─ 20[08-12]  Tech Lead 2nd Level Support<br>│             Synchronica GmbH Berlin<br>│<br>├─ 20[12-18]  Operations / DevOps Engineer<br>│             Cornelen Verlag GmbH Berlin<br>│<br>└─ 20[19-21]  Senior DevOps Engineer<br>              Cornelen Verlag GmbH Berlin</samp>| ![portrait]({static}/images/portrait-klein.jpg) |
 
 # skills
 
