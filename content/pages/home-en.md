@@ -4,50 +4,25 @@ lang: en
 url: pages/home-en.html
 menu_item: 1
 
+# vita
+|          |                    |
+| :-------------------------|:-------------------------:|
+| **Karsten Brusch**<br><br>Senior DevOps Engineer<br>Jahrgang 1982<br><br><br><samp>vita<br>├─ 200[3-5]   studies Wirtschaftsinformatik<br>│             Berufsakademie Berlin<br>│<br>├─ 200[6-8]   IT / Callcenter<br>│             bluepartner GmbH Berlin<br>│<br>├─ 2008       Technical Support Engineer<br>│             Microsoft & HP Dublin Ireland<br>│<br>├─ 20[08-12]  Tech Lead 2nd Level Support<br>│             Synchronica GmbH Berlin<br>│<br>├─ 20[12-18]  Operations / DevOps Engineer<br>│             Cornelen Verlag GmbH Berlin<br>│<br>└─ 20[19-21]  Senior DevOps Engineer<br>              Cornelen Verlag GmbH Berlin</samp>| ![portrait]({static}/images/portrait-klein.jpg) |
+
 # skills
 
-| skill         | level                   |
-| :------------ |:-----------------------:|
-| AWS Cloud     |<span style="color:green"><samp>[##########]</samp></span>|
-| CI/CD         |<span style="color:lightgreen"><samp>[######### ]</samp></span>|
-| Automation    |<span style="color:yellow"><samp>[######### ]</samp></span>|
-| Web Security  |<span style="color:orange"><samp>[#######   ]</samp></span>|
-| UX Design     |<span style="color:red"><samp>[#         ]</samp></span>|
-
-#### tools & languages
-
-| skill         | level         |
-| :------------ |:-------------:|
-| ansible       |<span style="color:green"><samp>[##########]</samp></span>|
-| bash          |<span style="color:green"><samp>[######### ]</samp></span>|
-| python        |<span style="color:lightgreen"><samp>[######    ]</samp></span>|
-| jenkins pipelines |<span style="color:green"><samp>[######### ]</samp></span>|
-| docker        |<span style="color:green"><samp>[######### ]</samp></span>|
-| kubernetes   |<span style="color:green"><samp>[########  ]</samp></span>|
-
-#### aws
-
-| skill         | level         |
-| :------------ |:-------------:|
-| security      |<span style="color:green"><samp>[##########]</samp></span>|
-| cloudformation |<span style="color:green"><samp>[##########]</samp></span>|
-| beanstalk     |<span style="color:green"><samp>[##########]</samp></span>|
-| ec2           |<span style="color:green"><samp>[##########]</samp></span>|
-| eks           |<span style="color:green"><samp>[##########]</samp></span>|
-| route53       |<span style="color:green"><samp>[##########]</samp></span>|
-
-#### soft skills
-
-| skill         | level         |
-| :------------ |:-------------:|
-| Training      |<span style="color:green"><samp>[##########]</samp></span>|
-| Reviews       |<span style="color:green"><samp>[##########]</samp></span>|
-| Beratung      |<span style="color:green"><samp>[##########]</samp></span>|
-
+| AWS & server  |               | automation    |               | software     |               | 
+| :------------ |:-------------:| :------------ |:-------------:|:------------ |:-------------:|
+| AWS security  |<span style="color:green">     <samp>[######### ]</samp></span>| ansible       |<span style="color:green">     <samp>[##########]</samp></span>| zabbix       |<span style="color:green">     <samp>[######### ]</samp></span>|
+| AWS EKS & k8s |<span style="color:lightgreen"><samp>[########  ]</samp></span>| bash          |<span style="color:lightgreen"><samp>[########  ]</samp></span>| jenkins      |<span style="color:lightgreen"><samp>[########  ]</samp></span>|
+| cloudformation|<span style="color:lightgreen"><samp>[########  ]</samp></span>| python        |<span style="color:yellow">    <samp>[######    ]</samp></span>| artifactory  |<span style="color:orange">    <samp>[####      ]</samp></span>|
+| AWS beanstalk |<span style="color:green">     <samp>[######### ]</samp></span>| puppet        |<span style="color:red">       <samp>[##        ]</samp></span>| MongoDB admin|<span style="color:yellow">    <samp>[######    ]</samp></span>|
+| linux admin   |<span style="color:green">     <samp>[######### ]</samp></span>| packer        |<span style="color:orange">    <samp>[####      ]</samp></span>| elk-stack    |<span style="color:red">       <samp>[##        ]</samp></span>|
+| docker        |<span style="color:lightgreen"><samp>[########  ]</samp></span>| terraform     |<span style="color:orange">    <samp>[###       ]</samp></span>| gitlab (+ci) |<span style="color:lightgreen"><samp>[########  ]</samp></span>|
 
 # trainings
 
-heres a short list of the last 10 years
+a short summary of my recent trainngs
 
 <samp>
 trainings
@@ -68,3 +43,16 @@ trainings
 ├── 2019.11 - Kubernetes DevOps
 └── 2020.08 - AWS DevOps Engineering
 </samp>
+
+<!---
+<span style="color:green">     <samp>[##########]</samp></span>
+<span style="color:green">     <samp>[######### ]</samp></span>
+<span style="color:lightgreen"><samp>[########  ]</samp></span>
+<span style="color:lightgreen"><samp>[#######   ]</samp></span>
+<span style="color:yellow">    <samp>[######    ]</samp></span>
+<span style="color:yellow">    <samp>[#####     ]</samp></span>
+<span style="color:orange">    <samp>[####      ]</samp></span>
+<span style="color:orange">    <samp>[###       ]</samp></span>
+<span style="color:red">       <samp>[##        ]</samp></span>
+<span style="color:red">       <samp>[#         ]</samp></span>
+-->

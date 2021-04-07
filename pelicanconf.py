@@ -8,7 +8,8 @@ SITENAME = 'k11h DevOps'
 SITETITLE = "k11h DevOps"
 SITESUBTITLE = "professional devops services"
 SITEURL = ''
-SITELOGO = SITEURL + "/images/logo.png"
+SITELOGO = "/images/logo2.png"
+FAVICON = '/images/favicon.ico'
 THEME = "/home/k11h/pelican-themes/Flex"
 PATH = 'content'
 COPYRIGHT_YEAR = datetime.now().year
@@ -29,10 +30,6 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
 }
 
-# Blogroll
-# LINKS = (('Xing', 'https://www.xing.com/profile/Karsten_Brusch/cv'),
-#         ('github', 'https://github.com/k11h-de'))
-
 # # Social widget
 SOCIAL = (
     ("github", "https://github.com/k11h-de"),
@@ -52,5 +49,3 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True
 PYGMENTS_STYLE = 'emacs'
 PYGMENTS_STYLE_DARK = 'monokai'
 PAGE_ORDER_BY = "menu_item"
-
-GOOGLE_GLOBAL_SITE_TAG = 'G-Y9KSJTHRK7'
