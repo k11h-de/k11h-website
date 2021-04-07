@@ -23,14 +23,21 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+USE_GOOGLE_FONTS = False
+STATIC_PATHS = ['extra', 'images' ] 
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+}
 
 # Blogroll
-LINKS = (('Xing', 'https://www.xing.com/profile/Karsten_Brusch/cv'),
-        ('github', 'https://github.com/k11h-de'))
+# LINKS = (('Xing', 'https://www.xing.com/profile/Karsten_Brusch/cv'),
+#         ('github', 'https://github.com/k11h-de'))
 
 # # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+SOCIAL = (
+    ("github", "https://github.com/k11h-de"),
+    ("xing", "https://www.xing.com/profile/Karsten_Brusch/cv"),
+)
 
 DEFAULT_PAGINATION = False
 
@@ -44,6 +51,6 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 PYGMENTS_STYLE = 'emacs'
 PYGMENTS_STYLE_DARK = 'monokai'
-
-USE_LESS = True
 PAGE_ORDER_BY = "menu_item"
+
+GOOGLE_GLOBAL_SITE_TAG = 'G-Y9KSJTHRK7'

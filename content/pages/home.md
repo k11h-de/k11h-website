@@ -7,49 +7,49 @@ menu_item: 1
 
 # skills
 
-| skill         | level         |
-| :------------ |:-------------:|
-| AWS Cloud     |![9](https://progress-bar.dev/9/?scale=10&suffix=/10&width=120)|
-| CI/CD         |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| Automation    |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| Web Security  |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| UX Design     |![2](https://progress-bar.dev/2/?scale=10&suffix=/10&width=120)|
+| skill         | level                   |
+| :------------ |:-----------------------:|
+| AWS Cloud     |<span style="color:green"><samp>[##########]</samp></span>|
+| CI/CD         |<span style="color:lightgreen"><samp>[######### ]</samp></span>|
+| Automation    |<span style="color:yellow"><samp>[######### ]</samp></span>|
+| Web Security  |<span style="color:orange"><samp>[#######   ]</samp></span>|
+| UX Design     |<span style="color:red"><samp>[#         ]</samp></span>|
 
 #### tools & languages
 
 | skill         | level         |
 | :------------ |:-------------:|
-| ansible       |![9](https://progress-bar.dev/9/?scale=10&suffix=/10&width=120)|
-| bash          |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| python        |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| jenkins pipelines |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| docker |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| kubernetes |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
+| ansible       |<span style="color:green"><samp>[##########]</samp></span>|
+| bash          |<span style="color:green"><samp>[######### ]</samp></span>|
+| python        |<span style="color:lightgreen"><samp>[######    ]</samp></span>|
+| jenkins pipelines |<span style="color:green"><samp>[######### ]</samp></span>|
+| docker        |<span style="color:green"><samp>[######### ]</samp></span>|
+| kubernetes   |<span style="color:green"><samp>[########  ]</samp></span>|
 
 #### aws
 
 | skill         | level         |
 | :------------ |:-------------:|
-| security     |![9](https://progress-bar.dev/9/?scale=10&suffix=/10&width=120)|
-| cloudformation |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| beanstalk |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| ec2 |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| eks |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
-| route53 |![7](https://progress-bar.dev/7/?scale=10&suffix=/10&width=120)|
+| security      |<span style="color:green"><samp>[##########]</samp></span>|
+| cloudformation |<span style="color:green"><samp>[##########]</samp></span>|
+| beanstalk     |<span style="color:green"><samp>[##########]</samp></span>|
+| ec2           |<span style="color:green"><samp>[##########]</samp></span>|
+| eks           |<span style="color:green"><samp>[##########]</samp></span>|
+| route53       |<span style="color:green"><samp>[##########]</samp></span>|
 
 #### soft skills
 
 | skill         | level         |
 | :------------ |:-------------:|
-| Training      |![6](https://progress-bar.dev/6/?scale=10&suffix=/10&width=120)|
-| Reviews       |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
-| Beratung      |![8](https://progress-bar.dev/8/?scale=10&suffix=/10&width=120)|
+| Training      |<span style="color:green"><samp>[##########]</samp></span>|
+| Reviews       |<span style="color:green"><samp>[##########]</samp></span>|
+| Beratung      |<span style="color:green"><samp>[##########]</samp></span>|
 
 # trainings
 
-ein kurzer abriss der letzten 10 jahre
+ein kurzer abriss der trainings der letzten 10 jahre
 
-```
+<samp>
 trainings
 ├── 2010.04 - F5 BigIP Essentials & Advanced
 ├── 2010.11 - Oracle 10g Essentials
@@ -67,4 +67,4 @@ trainings
 ├── 2019.09 - AWS Security Engineering
 ├── 2019.11 - Kubernetes DevOps
 └── 2020.08 - AWS DevOps Engineering
-```
+</samp>
