@@ -40,7 +40,8 @@ SOCIAL = (
     ("github", "https://github.com/k11h-de"),
     ("xing", "https://www.xing.com/profile/Karsten_Brusch/cv"),
     ("amazon", "https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB"),
-    ("rss", "/feeds/all.atom.xml")
+    ("rss", "/feeds/all.atom.xml"),
+    ("git-alt", "https://github.com/k11h-de/k11h-website"),
 )
 
 DEFAULT_PAGINATION = 5
