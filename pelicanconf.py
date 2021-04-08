@@ -8,7 +8,7 @@ SITENAME = 'k11h DevOps'
 SITETITLE = "k11h DevOps"
 SITESUBTITLE = "professional devops services"
 SITEURL = ''
-SITELOGO = "/images/logo2.png"
+SITELOGO = "/images/logo.png"
 FAVICON = '/images/favicon.ico'
 THEME = "/home/k11h/pelican-themes/Flex"
 PATH = 'content'
@@ -29,14 +29,22 @@ STATIC_PATHS = ['extra', 'images' ]
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
 }
-
+USE_FOLDER_AS_CATEGORY = True
+LINKS = (
+    ('---',' '),
+    ('articles', '/archives.html'),
+    ('tags', '/tags.html')
+)
 # # Social widget
 SOCIAL = (
     ("github", "https://github.com/k11h-de"),
     ("xing", "https://www.xing.com/profile/Karsten_Brusch/cv"),
+    ("amazon", "https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB"),
+    ("rss", "/feeds/all.atom.xml")
 )
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 5
+DISABLE_URL_HASH = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -45,20 +53,6 @@ DEFAULT_PAGINATION = False
 THEME_COLOR = 'dark'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 
-PYGMENTS_STYLE = 'emacs'
-PYGMENTS_STYLE_DARK = 'monokai'
 PAGE_ORDER_BY = "menu_item"
 
-CUSTOM_CSS = "/extra/toc.css"
-
-MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
-        # This is for enabling the TOC generation
-        'markdown.extensions.toc': {
-            'title': 'table of contents',
-        },
-    },
-    'output_format': 'html5',
-}
+CUSTOM_CSS = "/extra/custom.css"
