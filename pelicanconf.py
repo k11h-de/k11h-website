@@ -48,3 +48,15 @@ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 PYGMENTS_STYLE = 'emacs'
 PYGMENTS_STYLE_DARK = 'monokai'
 PAGE_ORDER_BY = "menu_item"
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        # This is for enabling the TOC generation
+        'markdown.extensions.toc': {
+            'title': 'table of contents',
+        },
+    },
+    'output_format': 'html5',
+}
