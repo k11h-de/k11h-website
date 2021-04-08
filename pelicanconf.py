@@ -49,6 +49,8 @@ PYGMENTS_STYLE = 'emacs'
 PYGMENTS_STYLE_DARK = 'monokai'
 PAGE_ORDER_BY = "menu_item"
 
+CUSTOM_CSS = "/extra/toc.css"
+
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.extra': {},
