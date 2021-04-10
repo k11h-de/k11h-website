@@ -8,6 +8,7 @@ menu_item: 2
 Ich biete als Freiberufler folgende Dienstleistungen
 
 * Programmierung von individuellen IT-Automatisierungslösungen
+* initiales Setup von hands-off Operations (aka GitOps)
 * Beratung, Reviews und Schulung zu Web-Security und DevOps
 * Konzeption, Sicherheit & Betrieb von IT-Systemen und Software-Entwicklungsprozessen
 * Klassiche Systemadministration
