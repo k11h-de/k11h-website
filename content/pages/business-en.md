@@ -1,5 +1,5 @@
-Title: references
-slug: references
+Title: business
+slug: business
 lang: en
 menu_item: 2
 
