@@ -15,7 +15,7 @@ vita
 │             Berufsakademie Berlin
 │
 ├─ 20[06-08]  IT / Callcenter
-│             [bluepartner GmbH](https://bluepartner.de) Berlin
+│             [bluepartner GmbH](https://bluepartner.de/) Berlin
 │
 ├─ 2008       Technical Support Engineer
 │             Microsoft & HP Dublin Ireland
