@@ -69,3 +69,4 @@ publish:
 
 1. make your changes to the files in `~/pelican/content`
 2. to publish them run `make publish` in your folder `~/pelican`
+3. your changes should be visible on [https://userxyz.uber.space/](https://userxyz.uber.space/)
