@@ -52,6 +52,7 @@ vita
 | :------------------ | :----------------------------------------------------------: |
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> |
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | terraform           | <span style="color:#00b333"><samp>[########  ]</samp></span> |
