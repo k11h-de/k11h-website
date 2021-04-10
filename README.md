@@ -19,7 +19,10 @@ pip3 install --user pelican[markdown]
 mkdir ~/pelican && cd ~/pelican
 pelican-quickstart
 ```
-<samp>
+
+follow the interactive quickstart    
+
+```
 Welcome to pelican-quickstart v4.6.0.
 
 This script will help you create a new Pelican-based website.
@@ -45,7 +48,7 @@ needed by Pelican.
 > Do you want to upload your website using Rackspace Cloud Files? (y/**N**)
 > Do you want to upload your website using GitHub Pages? (y/**N**)
 Done. Your new project is available at /home/userxyz/pelican
-</samp>
+```
 
 ### modify your Makefile
 
