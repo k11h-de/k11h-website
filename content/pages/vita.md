@@ -12,7 +12,7 @@ menu_item: 1
 <samp>
 vita
 ├─ 20[03-05]  Studium Wirtschaftsinformatik
-│             Berufsakademie Berlin
+│             [Berufsakademie / HWR](https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-zentralinstitute/fb-2-duales-studium/studieren-am-fachbereich/studiengaenge/detail/17-wirtschaftsinformatik/) Berlin
 │
 ├─ 20[06-08]  IT / Callcenter
 │             [bluepartner GmbH](https://bluepartner.de/) Berlin
