@@ -67,6 +67,6 @@ devserver-global:
 
 publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
-	rsync -pt --quiet --exclude /.htaccess --delete "$(OUTPUTDIR)/" "$(DOCROOT)" 
+	rsync -a --quiet --exclude /.htaccess --delete "$(OUTPUTDIR)/" "$(DOCROOT)" 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish 
