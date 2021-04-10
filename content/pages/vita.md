@@ -21,7 +21,7 @@ vita
 │             Microsoft & HP Dublin Ireland
 │
 ├─ 20[08-12]  Tech Lead 2nd Level Support
-│             Synchronica GmbH Berlin
+│             [Synchronica GmbH](https://en.wikipedia.org/wiki/Synchronica) Berlin
 │
 ├─ 20[12-18]  Operations / DevOps Engineer
 │             Cornelen Verlag GmbH Berlin
