@@ -66,7 +66,7 @@ vita
 | zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> |
 | jenkins             | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | gitlab (+ci)        | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
-| MongoDB admin       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
+| mongodb admin       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | artifactory         | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | elk-stack           | <span style="color:#008024"><samp>[####      ]</samp></span> |
 
