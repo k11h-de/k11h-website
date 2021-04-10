@@ -24,10 +24,10 @@ vita
 │             [Synchronica GmbH](https://en.wikipedia.org/wiki/Synchronica) Berlin
 │
 ├─ 20[12-18]  Operations / DevOps Engineer
-│             Cornelen Verlag GmbH Berlin
+│             [Cornelen Verlag GmbH](https://www.cornelsen.de) Berlin
 │
 └─ 20[19-21]  Senior DevOps Engineer
-              Cornelen Verlag GmbH Berlin
+              [Cornelen Verlag GmbH](https://www.cornelsen.de) Berlin
 </samp>
 
 # skills
