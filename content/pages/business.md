@@ -1,9 +1,9 @@
-Title: business
+Title: business (in Gründung)
 slug: business
 lang: de
 menu_item: 2
 
-# k11h DevOps Services (in Gründung)
+# k11h DevOps Services
 
 Ich biete als Freiberufler folgende Dienstleistungen
 
