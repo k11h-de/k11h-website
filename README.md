@@ -31,22 +31,22 @@ Please answer the following questions so this script can generate the files
 needed by Pelican.
 
 
-> Where do you want to create your new web site? [.]
-> What will be the title of this web site? ***my-shiny-blogtitle***
-> Who will be the author of this web site? ***userxyz***
-> What will be the default language of this web site? [de]
-> Do you want to specify a URL prefix? e.g., https://example.com   (**Y**/n)
-> What is your URL prefix? (see above example; no trailing slash) ***https://userxyz.uber.space/***
-> Do you want to enable article pagination? (**Y**/n)
-> How many articles per page do you want? [10]
-> What is your time zone? [Europe/Paris] ***Europe/Berlin***
-> Do you want to generate a tasks.py/Makefile to automate generation and publishing? (**Y**/n)
-> Do you want to upload your website using FTP? (y/**N**)
-> Do you want to upload your website using SSH? (y/**N**)
-> Do you want to upload your website using Dropbox? (y/**N**)
-> Do you want to upload your website using S3? (y/**N**)
-> Do you want to upload your website using Rackspace Cloud Files? (y/**N**)
-> Do you want to upload your website using GitHub Pages? (y/**N**)
+> Where do you want to create your new web site? [.] <enter>
+> What will be the title of this web site? my-shiny-blogtitle
+> Who will be the author of this web site? userxyz
+> What will be the default language of this web site? [de] <enter>
+> Do you want to specify a URL prefix? e.g., https://example.com   (Y/n) <enter>
+> What is your URL prefix? (see above example; no trailing slash) https://userxyz.uber.space/
+> Do you want to enable article pagination? (Y/n) <enter>
+> How many articles per page do you want? [10] <enter>
+> What is your time zone? [Europe/Paris] Europe/Berlin
+> Do you want to generate a tasks.py/Makefile to automate generation and publishing? (Y/n) <enter>
+> Do you want to upload your website using FTP? (y/N) <enter>
+> Do you want to upload your website using SSH? (y/N) <enter>
+> Do you want to upload your website using Dropbox? (y/N) <enter>
+> Do you want to upload your website using S3? (y/N) <enter>
+> Do you want to upload your website using Rackspace Cloud Files? (y/N) <enter>
+> Do you want to upload your website using GitHub Pages? (y/N) <enter>
 Done. Your new project is available at /home/userxyz/pelican
 ```
 
