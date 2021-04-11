@@ -15,7 +15,7 @@ RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'blog/feeds/all.atom.xml'
 
 # Following items are often useful when publishing
 
