@@ -1,14 +1,15 @@
-Title: business (in Gründung)
+Title: business
 slug: business
 lang: de
 menu_item: 2
 
-# k11h DevOps Services
+# k11h DevOps Services (in Gründung)
 
 Ich biete als Freiberufler folgende Dienstleistungen
 
-* Programmierung von individuellen IT-Automatisierungslösungen
+* Programmierung von Software und Automatisierungslösungen sowie IT-Systemadministration
+* Konzeption der Web-Security und des Betriebs von IT-Systemen
+* Unterstützung und Reviews bei agilen Softwareentwicklungsprozessen
 * initiales Setup von hands-off Operations (aka GitOps)
-* Beratung, Reviews und Schulung zu Web-Security und DevOps
-* Konzeption, Sicherheit & Betrieb von IT-Systemen und Software-Entwicklungsprozessen
-* Klassiche Systemadministration
+* Klassiche IT-Systemadministration
+* Schulungen zu Web-Security (in Vorbereitung)

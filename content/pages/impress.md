@@ -1,7 +1,7 @@
-Title: Impressum
+Title: Impress
 slug: impress
 lang: de
-menu_item: 4
+menu_item: 8
 
 # Impressum
 

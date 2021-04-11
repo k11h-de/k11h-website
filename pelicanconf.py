@@ -18,6 +18,23 @@ TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = 'de'
 
+# different layout for pages and blog
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_LANG_URL = '{slug}-{lang}.html'
+PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
+INDEX_SAVE_AS = 'blog/index.html'
+ARTICLE_URL = 'blog/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+ARTICLE_LANG_URL = 'blog/{slug}-{lang}.html'
+ARTICLE_LANG_SAVE_AS = 'blog/{slug}-{lang}.html'
+CATEGORY_SAVE_AS = ''
+ARCHIVES_SAVE_AS = 'blog/archives.html'
+TAGS_SAVE_AS = 'blog/tags.html'
+TAG_URL = 'blog/tag/{slug}.html'
+TAG_SAVE_AS = 'blog/tag/{slug}.html'
+AUTHOR_SAVE_AS = ''
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -31,9 +48,7 @@ EXTRA_PATH_METADATA = {
 }
 USE_FOLDER_AS_CATEGORY = True
 LINKS = (
-    ('---',' '),
-    ('articles', '/archives.html'),
-    ('tags', '/tags.html')
+    ('blog', '/blog/index.html'),
 )
 # # Social widget
 SOCIAL = (
