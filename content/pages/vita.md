@@ -39,7 +39,7 @@ vita
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | aws beanstalk       | <span style="color:#00e641"><samp>[##########]</samp></span> |
-| (aws cloud) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
+| (cloud/web) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | aws eks / kubernetes| <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |

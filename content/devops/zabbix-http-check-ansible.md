@@ -1,5 +1,5 @@
 Title: zabbix http/s checks from yaml dict
-Date: 2020-04-11 14:12
+Date: 2021-04-11 14:12
 Tags: ansible, zabbix, gitlab, monitoring
 slug: zabbix-http-check-ansible
 
