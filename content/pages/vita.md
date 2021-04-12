@@ -39,7 +39,7 @@ vita
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | aws beanstalk       | <span style="color:#00e641"><samp>[##########]</samp></span> |
-| aws cloud security  | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| (aws cloud) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | aws eks / kubernetes| <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
@@ -53,7 +53,7 @@ vita
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
-| bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://k11h.de/blog/ansible-in-docker.html)
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
@@ -66,7 +66,7 @@ vita
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
-| jenkins             | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| jenkins (pipelines) | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | gitlab (+ci)        | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | mongodb admin       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | artifactory         | <span style="color:#00b333"><samp>[########  ]</samp></span> |
