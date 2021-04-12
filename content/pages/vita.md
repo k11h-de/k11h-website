@@ -36,8 +36,8 @@ vita
 
 #### aws & infra
 
-|<samp>skill                </samp>| level                                                | 
-| :------------------ | :----------------------------------------------------------: |
+|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+| :------------------ | :----------------------------------------------------------: | --- |
 | aws beanstalk       | <span style="color:#00e641"><samp>[##########]</samp></span> |
 | aws cloud security  | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
@@ -50,9 +50,9 @@ vita
 
 ### automation
 
-|<samp>skill                </samp>| level                                                | 
-| :------------------ | :----------------------------------------------------------: |
-| ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> |
+|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+| :------------------ | :----------------------------------------------------------: | --- |
+| ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
@@ -63,11 +63,11 @@ vita
 
 ### software 
 
-|<samp>skill                </samp>| level                                                | 
-| :------------------ | :----------------------------------------------------------: |
-| zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> |
+|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+| :------------------ | :----------------------------------------------------------: | --- |
+| zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | jenkins             | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
-| gitlab (+ci)        | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| gitlab (+ci)        | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | mongodb admin       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | artifactory         | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | elk-stack           | <span style="color:#008024"><samp>[####      ]</samp></span> |

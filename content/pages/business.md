@@ -7,9 +7,14 @@ menu_item: 2
 
 Ich biete als Freiberufler folgende Dienstleistungen
 
-* Programmierung von Software und Automatisierungslösungen sowie IT-Systemadministration
+* Programmierung von Software und Automatisierungslösungen
+
 * Konzeption der Web-Security und des Betriebs von IT-Systemen
+
 * Unterstützung und Reviews bei agilen Softwareentwicklungsprozessen
+
 * initiales Setup von hands-off Operations (aka GitOps)
+
 * Klassiche IT-Systemadministration
+
 * Schulungen zu Web-Security (in Vorbereitung)
