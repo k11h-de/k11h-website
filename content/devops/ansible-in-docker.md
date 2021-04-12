@@ -11,6 +11,7 @@ I wrote a small wrapper script to run ansible tasks inside a docker container.
 # wrapper
 
 ```bash
+#!/bin/bash
 vault=~/.ansible-vault-pass
 # check if argument was supplied
 if [ $# -eq 0 ]
