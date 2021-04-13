@@ -20,7 +20,9 @@ mkdir ~/pelican && cd ~/pelican
 pelican-quickstart
 ```
 
-follow the interactive quickstart    
+follow the interactive quickstart as shown below.  
+this example uses the standard uberspace domain.     
+in case you wnat to use your own domain, make sure to follow the [uberspace manual](https://manual.uberspace.de/web-domains/) for adding your custom domain first     
 
 ```
 Welcome to pelican-quickstart v4.6.0.
@@ -36,7 +38,7 @@ needed by Pelican.
 > Who will be the author of this web site? userxyz
 > What will be the default language of this web site? [de] <enter>
 > Do you want to specify a URL prefix? e.g., https://example.com   (Y/n) <enter>
-> What is your URL prefix? (see above example; no trailing slash) https://userxyz.uber.space/
+> What is your URL prefix? (see above example; no trailing slash) https://userxyz.uber.space/ 
 > Do you want to enable article pagination? (Y/n) <enter>
 > How many articles per page do you want? [10] <enter>
 > What is your time zone? [Europe/Paris] Europe/Berlin
