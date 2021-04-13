@@ -59,6 +59,7 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 5
+SUMMARY_MAX_LENGTH = None
 DISABLE_URL_HASH = True
 
 # Uncomment following line if you want document-relative URLs when developing

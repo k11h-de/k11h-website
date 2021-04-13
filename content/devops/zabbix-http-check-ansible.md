@@ -3,7 +3,7 @@ Date: 2021-04-11 14:12
 Tags: ansible, zabbix, gitlab, monitoring
 slug: zabbix-http-check-ansible
 
-# why
+### motivation
 
 to maintain the principle of configuration-as-code this tools helps to bulk create and update http/s checks from your zabbix server
 
@@ -23,6 +23,6 @@ health_checks:
     - check_url:              "https://static.example.com/images/"
 ```
 
-# source
+#### source
 
 the sources, documentation and examples are located [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}

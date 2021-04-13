@@ -3,12 +3,12 @@ Date: 2020-12-22 08:12
 Tags: ansible, docker, bash
 slug: ansible-in-docker
 
-# why
+### why
 
 Sometimes it is important to be independent from your local dev machines setup.    
 I wrote a small wrapper script to run ansible tasks inside a docker container.
 
-# wrapper
+#### wrapper
 
 ```bash
 #!/bin/bash

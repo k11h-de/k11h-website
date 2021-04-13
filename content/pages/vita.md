@@ -55,10 +55,10 @@ vita
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://k11h.de/blog/ansible-in-docker.html)
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
-| python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
-| packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
+| python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/jinja2-templating){:target="_blank"}
+| packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> | 
 | aws lambda          | <span style="color:#00b333"><samp>[########  ]</samp></span> | [here](https://github.com/k11h-de/aws-lambda){:target="_blank"}
-| terraform          | <span style="color:#00992b"><samp>[#######   ]</samp></span> |
+| terraform           | <span style="color:#00992b"><samp>[#######   ]</samp></span> |
 | puppet              | <span style="color:#008024"><samp>[####      ]</samp></span> |
 
 ### software 
