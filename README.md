@@ -9,9 +9,9 @@ uberspace is a berlin-located company offering a shared-user server with great t
 
 :zap: remember to replace `userxyz` with your actual uberspace username
 
-## install pelican 
+## install and upgrade pelican 
 ```bash
-pip3 install --user pelican[markdown]
+pip3 install --upgrade --user "pelican[markdown]"
 ```
 
 ### generate pelican structure
@@ -69,6 +69,6 @@ publish:
 
 ## usage
 
-1. make your changes to the files in `~/pelican/content`
+1. make your changes to the files in `~/pelican/content` according to the [official docs](https://docs.getpelican.com/en/latest/content.html)
 2. to publish them run `make publish` in your folder `~/pelican`
 3. your changes should be visible on [https://userxyz.uber.space/](https://userxyz.uber.space/)
