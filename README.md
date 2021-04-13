@@ -22,7 +22,8 @@ pelican-quickstart
 
 follow the interactive quickstart as shown below.  
 this example uses the standard uberspace domain.     
-in case you wnat to use your own domain, make sure to follow the [uberspace manual](https://manual.uberspace.de/web-domains/) for adding your custom domain first     
+
+in case you want to use your own domain, please make sure to follow the [uberspace manual](https://manual.uberspace.de/web-domains/) for adding a custom domain first     
 
 ```
 Welcome to pelican-quickstart v4.6.0.
@@ -65,6 +66,19 @@ publish:
 +	rsync -a --quiet --exclude /.htaccess --delete "$(OUTPUTDIR)/" /var/www/virtual/userxyz/html 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish 
+```
+
+### add a cronjob to automatically publish
+
+in case you store your pelican files in a git repository, you can set up a cronjob to auto-publish in case the remote git branch was changed    
+    
+1. copy the file [publish-on-change.sh](publish-on-change.sh) to your pelican folder (`~/pelican/`)
+
+2. add following cronjob with `crontab -e`
+Please refer to the offical uberspace manual for [setting up a cron](https://manual.uberspace.de/daemons-cron/).
+
+```
+* * * * * /home/userxyz/pelican/publish-on-change.sh &> /dev/null
 ```
 
 ## usage
