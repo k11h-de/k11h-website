@@ -9,7 +9,7 @@ SITETITLE = "k11h DevOps"
 SITESUBTITLE = "professional devops services"
 SITEURL = ''
 SITELOGO = "/images/logo.svg"
-FAVICON = '/images/favicon.ico'
+FAVICON = '/favicon.ico'
 THEME = "theme"
 PATH = 'content'
 COPYRIGHT_YEAR = datetime.now().year
@@ -45,6 +45,7 @@ USE_GOOGLE_FONTS = False
 STATIC_PATHS = ['extra', 'images' ] 
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
+    'images/favicon.ico': {'path': 'favicon.ico'},
 }
 USE_FOLDER_AS_CATEGORY = True
 LINKS = (
