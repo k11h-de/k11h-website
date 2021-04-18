@@ -84,6 +84,7 @@ vita
 
 <samp>
 trainings
+├── 2009.07 - MySQL Cluster HA
 ├── 2010.04 - F5 BigIP Essentials & Advanced
 ├── 2010.11 - Oracle 10g Essentials
 ├── 2012.12 - MS SQL Server 2012 Admin
