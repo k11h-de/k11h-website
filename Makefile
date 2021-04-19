@@ -7,7 +7,6 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-DOCROOT=/var/www/virtual/k11h/html
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -67,6 +66,6 @@ devserver-global:
 
 publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
-	rsync -a --quiet --exclude /.htaccess --delete "$(OUTPUTDIR)/" "$(DOCROOT)" 
+	rsync -a --quiet --exclude /.htaccess --delete "$(OUTPUTDIR)/" "/var/www/virtual/$(USER)/html" 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish 
