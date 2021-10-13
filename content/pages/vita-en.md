@@ -8,6 +8,7 @@ menu_item: 1
 ## Karsten Brusch
 
 #### Senior DevOps Engineer     
+##### Security Researcher
 
 <samp>
 vita
@@ -100,5 +101,11 @@ trainings
 ├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
 ├── 2020.08 - AWS DevOps Engineering
 ├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
-└── 2021.03 - [MongoDB University DBA Path](https://university.mongodb.com/learning_paths/dba#learning-paths-steps){:target="_blank"} (e-learning)
+├── 2021.03 - [MongoDB University DBA Path](https://university.mongodb.com/learning_paths/dba#learning-paths-steps){:target="_blank"} (e-learning)
+└── 2021.10 - [attack vectors](https://www.linuxhotel.de/course/angriffstechniken-de) 
 </samp>
+
+# openBugBounty researcher
+
+* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11)
+* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4)
