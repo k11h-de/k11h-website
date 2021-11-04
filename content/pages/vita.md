@@ -10,12 +10,13 @@ save_as: index.html
 ## Karsten Brusch
 
 #### Senior DevOps Engineer 
-##### Security Researcher
+##### und Security Researcher
 
 <samp>
 vita
-├─ 20[03-05]  Studium Wirtschaftsinformatik
+├─ 20[03-05]  duales Studium Wirtschaftsinformatik
 │             [Berufsakademie / HWR](https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-zentralinstitute/fb-2-duales-studium/studieren-am-fachbereich/studiengaenge/detail/17-wirtschaftsinformatik/) Berlin
+│             bei der IBM Deutschland GmbH
 │
 ├─ 20[06-08]  IT / Callcenter
 │             [bluepartner GmbH](https://bluepartner.de) Berlin
@@ -103,7 +104,6 @@ trainings
 ├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
 ├── 2020.08 - AWS DevOps Engineering
 ├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
-├── 2021.03 - [MongoDB University DBA Path](https://university.mongodb.com/learning_paths/dba#learning-paths-steps){:target="_blank"} (e-learning)
 └── 2021.10 - [Angriffstechniken](https://www.linuxhotel.de/course/angriffstechniken-de) 
 </samp>
 
