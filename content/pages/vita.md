@@ -22,12 +22,12 @@ vita
 │             [bluepartner GmbH](https://bluepartner.de) Berlin
 │
 ├─ 2008       Technical Support Engineer
-│             Microsoft & HP Dublin Ireland
+│             [Microsoft & HP](https://support.hp.com/ie-en) Dublin Irland
 │
 ├─ 20[08-12]  Tech Lead 2nd Level Support
 │             [Synchronica GmbH](https://en.wikipedia.org/wiki/Synchronica) Berlin
 │
-├─ 20[12-18]  Operations / DevOps Engineer
+├─ 20[12-18]  Operations & DevOps Engineer
 │             [Cornelsen Verlag GmbH](https://www.cornelsen.de) Berlin
 │
 └─ 20[19-21]  Senior DevOps Engineer
