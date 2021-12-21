@@ -57,6 +57,7 @@ SOCIAL = (
     ("xing", "https://www.xing.com/profile/Karsten_Brusch/cv"),
     ("rss", "/blog/feeds/all.atom.xml"),
     ("git-alt", "https://github.com/k11h-de/k11h-website"),
+    ("twitter", "https://twitter.com/obugbounty")
 )
 
 DEFAULT_PAGINATION = 5
