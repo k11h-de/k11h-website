@@ -3,8 +3,6 @@ slug: sec
 lang: en
 menu_item: 3
 
-# IT security 
-
 I also do:
 
 * ethical hacking

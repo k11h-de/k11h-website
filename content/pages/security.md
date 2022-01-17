@@ -3,8 +3,6 @@ slug: sec
 lang: de
 menu_item: 3
 
-# IT Sicherheit 
-
 Ich beschäftige mich in meiner Freizeit außerdem mit:
 
 * ethical hacking
