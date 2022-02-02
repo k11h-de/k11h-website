@@ -3,14 +3,17 @@ slug: sec
 lang: en
 menu_item: 3
 
-I also do:
+## openBugBounty 
 
-* ethical hacking
-
-* responsible disclosure
+* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4){:target="_blank"}
 
 ## hall of fame
 
-* [www.tagesspiegel.de](https://www.openbugbounty.org/reports/2304389/)
-* [www.bmfsfj.de](https://www.openbugbounty.org/reports/2160291/)
-* [bibliothek.bundesarchiv.de](https://www.openbugbounty.org/reports/2337959/)
+* [www.bmfsfj.de](https://www.openbugbounty.org/reports/2160291/){:target="_blank"}
+* [bibliothek.bundesarchiv.de](https://www.openbugbounty.org/reports/2337959/){:target="_blank"}
+* [lagis.landesarchiv-bw.de](https://www.openbugbounty.org/reports/2228691/){:target="_blank"}
+* [www.dakks.de](https://www.openbugbounty.org/reports/2216385/){:target="_blank"}
+* [ticker.taz.de](https://www.openbugbounty.org/reports/2304217/){:target="_blank"}
+* [www.tagesspiegel.de](https://www.openbugbounty.org/reports/2304389/){:target="_blank"}
+* [vhs-bonn.de](https://www.openbugbounty.org/reports/2216409/){:target="_blank"}

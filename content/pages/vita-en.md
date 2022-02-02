@@ -13,22 +13,22 @@ menu_item: 1
 <samp>
 vita
 ├─ 20[03-05]  studies of Wirtschaftsinformatik
-│             [Berufsakademie / HWR](https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-zentralinstitute/fb-2-duales-studium/studieren-am-fachbereich/studiengaenge/detail/17-wirtschaftsinformatik/) Berlin
+│             [Berufsakademie / HWR](https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-zentralinstitute/fb-2-duales-studium/studieren-am-fachbereich/studiengaenge/detail/17-wirtschaftsinformatik/){:target="_blank"} Berlin
 │
 ├─ 20[06-08]  IT / Callcenter
-│             [bluepartner GmbH](https://bluepartner.de) Berlin
+│             [bluepartner GmbH](https://bluepartner.de){:target="_blank"} Berlin
 │
 ├─ 2008       Technical Support Engineer
-│             [Microsoft & HP](https://support.hp.com/ie-en) Dublin Ireland
+│             [Microsoft & HP](https://support.hp.com/ie-en){:target="_blank"} Dublin Ireland
 │
 ├─ 20[08-12]  Tech Lead 2nd Level Support
-│             [Synchronica GmbH](https://en.wikipedia.org/wiki/Synchronica) Berlin
+│             [Synchronica GmbH](https://en.wikipedia.org/wiki/Synchronica){:target="_blank"} Berlin
 │
 ├─ 20[12-18]  Operations & DevOps Engineer
-│             [Cornelsen Verlag GmbH](https://www.cornelsen.de) Berlin
+│             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 │
 └─ 20[19-21]  Senior DevOps Engineer
-              [Cornelsen Verlag GmbH](https://www.cornelsen.de) Berlin
+              [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
 
 # skills
@@ -101,10 +101,5 @@ trainings
 ├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
 ├── 2020.08 - AWS DevOps Engineering
 ├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
-└── 2021.10 - [attack vectors](https://www.linuxhotel.de/course/angriffstechniken-de) 
+└── 2021.10 - [attack vectors](https://www.linuxhotel.de/course/angriffstechniken-de){:target="_blank"} 
 </samp>
-
-# openBugBounty researcher
-
-* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11)
-* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4)
