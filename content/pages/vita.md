@@ -12,6 +12,8 @@ save_as: index.html
 #### Senior DevOps Engineer 
 ##### und Security Researcher
 
+# vita
+
 <samp>
 vita
 ├─ 20[03-05]  duales Studium Wirtschaftsinformatik
@@ -33,6 +35,32 @@ vita
 └─ 20[19-21]  Senior DevOps Engineer
               [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
+
+# security
+
+Ich beschäftige mich in meiner Freizeit außerdem mit [ethical hacking](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-ethical-hacking/){:target="_blank"} und [responsible disclosure](https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si){:target="_blank"} 
+
+## openBugBounty profil
+
+* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4){:target="_blank"}
+
+## hall of fame
+
+* [gbe-bund.de](https://www.openbugbounty.org/reports/2343600/)
+* [bag.bund.de](https://www.openbugbounty.org/reports/2343598/)
+* [bbr.bund.de](https://www.openbugbounty.org/reports/2341841/)
+* [www.bmfsfj.de](https://www.openbugbounty.org/reports/2160291/){:target="_blank"}
+* [bibliothek.bundesarchiv.de](https://www.openbugbounty.org/reports/2337959/){:target="_blank"}
+* [lagis.landesarchiv-bw.de](https://www.openbugbounty.org/reports/2228691/){:target="_blank"}
+* [www.dakks.de](https://www.openbugbounty.org/reports/2216385/){:target="_blank"}
+* [ticker.taz.de](https://www.openbugbounty.org/reports/2304217/){:target="_blank"}
+* [www.tagesspiegel.de](https://www.openbugbounty.org/reports/2304389/){:target="_blank"}
+* [vhs-bonn.de](https://www.openbugbounty.org/reports/2216409/){:target="_blank"}
+* [kiel.de](https://www.openbugbounty.org/reports/2357795/)
+* [amtsblatt.bremen.de](https://www.openbugbounty.org/reports/2305680/)
+* [fremdenverkehrsamt.com](https://www.openbugbounty.org/reports/2203713/)
+
 
 # skills
 
