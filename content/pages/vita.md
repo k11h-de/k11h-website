@@ -10,7 +10,7 @@ save_as: index.html
 ## Karsten Brusch
 
 #### Senior DevOps Engineer 
-##### und Security Researcher
+##### und Ethical Hacker
 
 # vita
 
@@ -38,7 +38,8 @@ vita
 
 # security
 
-Ich beschäftige mich in meiner Freizeit außerdem mit [ethical hacking](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-ethical-hacking/){:target="_blank"} und [responsible disclosure](https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si){:target="_blank"} 
+Ich beschäftige mich in meiner Freizeit außerdem mit [ethical hacking](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-ethical-hacking/){:target="_blank"}        
+Wenn ich Ihnen helfen konnte und Sie eine Möglichkeit suchen sich zu bedanken: [hier entlang](https://k11h.de/blog/bug-bounty.html)
 
 ## openBugBounty profil
 
