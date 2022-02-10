@@ -8,7 +8,7 @@ menu_item: 1
 ## Karsten Brusch
 
 #### Senior DevOps Engineer     
-##### and Security Researcher
+##### and ethical hacker
 
 # vita
 
@@ -29,13 +29,14 @@ vita
 ├─ 20[12-18]  Operations & DevOps Engineer
 │             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 │
-└─ 20[19-21]  Senior DevOps Engineer
+└─ 20[19-22]  Senior DevOps Engineer
               [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
 
 # security
 
 In my free time I do [ethical hacking](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-ethical-hacking/){:target="_blank"} and [responsible disclosure](https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si){:target="_blank"} 
+If I was able to help you and you would like to support my work: [see here](https://k11h.de/blog/bug-bounty.html)
 
 ## openBugBounty profile
 

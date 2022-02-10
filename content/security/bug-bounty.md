@@ -1,6 +1,7 @@
 Title: bug bounty
 Date: 2021-12-31 23:59
 slug: bug-bounty
+lang: de
 
 ## Motivation
 

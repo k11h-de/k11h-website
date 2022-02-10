@@ -32,7 +32,7 @@ vita
 ├─ 20[12-18]  Operations & DevOps Engineer
 │             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 │
-└─ 20[19-21]  Senior DevOps Engineer
+└─ 20[19-22]  Senior DevOps Engineer
               [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
 
