@@ -5,7 +5,7 @@ lang: de
 
 ## Motivation
 
-Ich investiere gern einen Teil meiner Freizeit in die Suche und das Melden von Schwachstellen. Selbstverständlich erwarte ich hierfür - wie bei [ethical hacking](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-ethical-hacking/){:target="_blank"} üblich - keinerlei Gegenleistung.
+Ich investiere gern einen Teil meiner Freizeit in die Suche und das Melden von Schwachstellen. Selbstverständlich erwarte ich hierfür keinerlei Gegenleistung.
 
 Dennoch möchten sich die meisten Betreiber gern erkenntlich zeigen und meine Arbeit unterstützen.
 
