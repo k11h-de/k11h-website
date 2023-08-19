@@ -6,7 +6,7 @@ from datetime import datetime
 AUTHOR = 'Karsten'
 SITENAME = 'k11h DevOps'
 SITETITLE = "k11h DevOps"
-SITESUBTITLE = "professional devops services"
+SITESUBTITLE = "devops professional"
 SITEURL = ''
 SITELOGO = "/images/logo.svg"
 FAVICON = '/favicon.ico'
@@ -56,8 +56,7 @@ SOCIAL = (
     ("github", "https://github.com/k11h-de"),
     ("xing", "https://www.xing.com/profile/Karsten_Brusch/cv"),
     ("rss", "/blog/feeds/all.atom.xml"),
-    ("git-alt", "https://github.com/k11h-de/k11h-website"),
-    ("twitter", "https://twitter.com/obugbounty")
+    ("git-alt", "https://github.com/k11h-de/k11h-website")
 )
 
 DEFAULT_PAGINATION = 5

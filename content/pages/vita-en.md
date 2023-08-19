@@ -29,7 +29,10 @@ vita
 ├─ 20[12-18]  Operations & DevOps Engineer
 │             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 │
-└─ 20[19-22]  Senior DevOps Engineer
+├─ 20[19-23]  Senior DevOps Engineer
+│             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
+│
+└─ 20[23-??]  Cloud Solution Architect
               [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
 
@@ -93,6 +96,7 @@ If I was able to help you and you would like to support my work: [see here](http
 
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
+| flux (gitops)       | <span style="color:#00e641"><samp>[##########]</samp></span> | 
 | zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | jenkins (pipelines) | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | gitlab (+ci)        | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
@@ -130,5 +134,8 @@ trainings
 ├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
 ├── 2020.08 - AWS DevOps Engineering
 ├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
-└── 2021.10 - [attack vectors](https://www.linuxhotel.de/course/angriffstechniken-de){:target="_blank"} 
+├── 2021.10 - [attack vectors](https://www.linuxhotel.de/course/angriffstechniken-de){:target="_blank"} 
+├── 2022.09 - [terraform masterclass](https://www.tecracer.com/training/terraform-engineering/) 
+├── 2023.02 - [LFS458 kubernetes administration](https://training.linuxfoundation.org/training/kubernetes-administration/)
+└── 2023.08 - [secure web development](https://www.linuxhotel.de/course/web_sicherheit-de/)
 </samp>
