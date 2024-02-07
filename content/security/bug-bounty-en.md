@@ -32,10 +32,8 @@ you can support my work in different ways:
 
 #### 3) kudos
 
-* via [Twitter](https://twitter.com/obugbounty){:target="_blank"} 
-* via [openbugbounty](https://www.openbugbounty.org/researchers/KarstenBerlin/?#tabs-2){:target="_blank"}
+via [LinkedIn](https://www.linkedin.com/in/karsten-brusch-a11a782ab/){:target="_blank"} 
 
 #### 4) karma
 
-or simply by saying "thank you" or a funny [t-shirt](https://www.spreadshirt.de/shop/maenner/bekleidung/t-shirts/hacker/?size=4) (in size L).
-
+or simply by saying "thank you" or a funny [t-shirt](https://www.spreadshirt.de/shop/maenner/bekleidung/t-shirts/?size=4) (in size L).

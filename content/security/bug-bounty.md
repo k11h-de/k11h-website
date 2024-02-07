@@ -32,10 +32,9 @@ Wenn Sie meine Arbeit unterstützen möchten können Sie dies auf folgende Weise
 
 #### 3) Eine Empfehlung 
 
-* via [Twitter](https://twitter.com/obugbounty){:target="_blank"} oder 
-* via [openbugbounty](https://www.openbugbounty.org/researchers/KarstenBerlin/?#tabs-2){:target="_blank"}
+via [LinkedIn](https://www.linkedin.com/in/karsten-brusch-a11a782ab/){:target="_blank"} 
 
 #### 4) Karma
 
-oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](https://www.spreadshirt.de/shop/maenner/bekleidung/t-shirts/hacker/?size=4) (in Größe L).
+oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](https://www.spreadshirt.de/shop/maenner/bekleidung/t-shirts/?size=4) (in Größe L).
 
