@@ -41,12 +41,12 @@ vita
 In my free time I do security research and [responsible disclosure](https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si){:target="_blank"} 
 If I was able to help you and you would like to support my work: [see here](https://k11h.de/blog/bug-bounty.html)
 
-## openBugBounty profile
+### profiles
 
-* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
-* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4){:target="_blank"}
+* [openbugbounty.org](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [HackerOne.com profile](https://hackerone.com/k11h)
 
-## hall of fame
+### hall of fame
 
 * [gbe-bund.de](https://www.openbugbounty.org/reports/2343600/)
 * [bag.bund.de](https://www.openbugbounty.org/reports/2343598/)

@@ -44,13 +44,15 @@ vita
 Ich beschäftige mich außerdem mit IT-Sicherheit und [responsible disclosure](https://de.wikipedia.org/wiki/Responsible_Disclosure_(IT-Sicherheit)){:target="_blank"} und konnte schon einigen Bundes- und Landesbehörden aber auch privaten Organisationen verantwortungsvoll Lücken melden.      
 Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten: [hier entlang](https://k11h.de/blog/bug-bounty.html){:target="_blank"}
 
-### openBugBounty profil
+### profiles
 
-* [reported sites](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
-* [statistics](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-4){:target="_blank"}
+* [openbugbounty.org](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [HackerOne.com profile](https://hackerone.com/k11h)
 
 ### hall of fame
 
+* [bayer.com](https://www.bayer.com/en/cybersecurity-hall-of-fame)
+* [ibm.com](https://www.ibm.com/support/pages/node/6610583) 
 * [gbe-bund.de](https://www.openbugbounty.org/reports/2343600/)
 * [bag.bund.de](https://www.openbugbounty.org/reports/2343598/)
 * [bbr.bund.de](https://www.openbugbounty.org/reports/2341841/)
