@@ -74,27 +74,26 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
-| aws beanstalk       | <span style="color:#00e641"><samp>[##########]</samp></span> |
+| aws eks / kubernetes| <span style="color:#00e641"><samp>[##########]</samp></span> |
 | (cloud/web) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
-| aws eks / kubernetes| <span style="color:#00b333"><samp>[########  ]</samp></span> |
+| aws beanstalk       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | CentOS / RHEL       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | Kubernetes          | <span style="color:#00992b"><samp>[#######   ]</samp></span> |
 | cloudformation      | <span style="color:#008024"><samp>[######    ]</samp></span> |
-| Solaris             | <span style="color:#008024"><samp>[####      ]</samp></span> |
 
 ### automation
 
 |<samp>skill                </samp>| level                                                | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
+| terraform           | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | 
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://k11h.de/blog/ansible-in-docker.html)
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/jinja2-templating){:target="_blank"}
 | packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> | 
 | aws lambda          | <span style="color:#00b333"><samp>[########  ]</samp></span> | [here](https://github.com/k11h-de/aws-lambda){:target="_blank"}
-| terraform           | <span style="color:#00992b"><samp>[#######   ]</samp></span> |
 | puppet              | <span style="color:#008024"><samp>[####      ]</samp></span> |
 
 ### software 
