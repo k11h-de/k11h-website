@@ -81,7 +81,6 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 | aws beanstalk       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | CentOS / RHEL       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
-| Kubernetes          | <span style="color:#00992b"><samp>[#######   ]</samp></span> |
 | cloudformation      | <span style="color:#008024"><samp>[######    ]</samp></span> |
 
 ### automation
