@@ -77,6 +77,7 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 | aws eks / kubernetes| <span style="color:#00e641"><samp>[##########]</samp></span> |
 | (cloud/web) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
+| open telekom cloud  | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | aws beanstalk       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | CentOS / RHEL       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
