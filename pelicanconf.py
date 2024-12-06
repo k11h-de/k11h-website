@@ -42,10 +42,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 USE_GOOGLE_FONTS = False
-STATIC_PATHS = ['extra', 'images' ] 
+STATIC_PATHS = ['extra', 'images', 'static' ] 
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/2021.10.Angriffstechniken.pdf': {'path': '2021.10.Angriffstechniken.pdf'},
+    'static/2021.10.Angriffstechniken.pdf': {'path': 'static/2021.10.Angriffstechniken.pdf'},
     'images/favicon.ico': {'path': 'favicon.ico'},
 }
 USE_FOLDER_AS_CATEGORY = True
