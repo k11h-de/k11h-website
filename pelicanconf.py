@@ -45,7 +45,6 @@ USE_GOOGLE_FONTS = False
 STATIC_PATHS = ['extra', 'images', 'static' ] 
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'static/2021.10.Angriffstechniken.pdf': {'path': 'static/2021.10.Angriffstechniken.pdf'},
     'images/favicon.ico': {'path': 'favicon.ico'},
 }
 USE_FOLDER_AS_CATEGORY = True
