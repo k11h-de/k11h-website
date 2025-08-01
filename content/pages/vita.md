@@ -35,7 +35,10 @@ vita
 ├─ 20[19-23]  Senior DevOps Engineer
 │             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 │
-└─ 20[23-??]  Cloud Solution Architect
+├─ 20[23-25]  Cloud Solution Architect
+│             [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
+│
+└─ 20[25-??]  IT Security Engineer
               [Cornelsen Verlag GmbH](https://www.cornelsen.de){:target="_blank"} Berlin
 </samp>
 
