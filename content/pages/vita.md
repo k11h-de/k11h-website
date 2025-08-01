@@ -9,7 +9,7 @@ save_as: index.html
 
 ## Karsten Brusch
 
-#### Senior DevOps Engineer 
+#### Senior DevOps, IT Security Engineer 
 ##### und IT Sicherheitsforscher
 
 # vita
@@ -46,8 +46,9 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 ### profiles
 
-* [openbugbounty.org](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [Intigriti](https://app.intigriti.com/profile/karsten_berlin)
 * [HackerOne.com profile](https://hackerone.com/k11h)
+* [openbugbounty.org](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
 
 ### hall of fame
 
