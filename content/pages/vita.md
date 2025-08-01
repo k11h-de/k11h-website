@@ -78,27 +78,15 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 | (cloud/web) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
 | linux admin         | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | open telekom cloud  | <span style="color:#00b333"><samp>[########  ]</samp></span> |
-| aws beanstalk       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
+| AI coding tools     | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
-| CentOS / RHEL       | <span style="color:#00b333"><samp>[########  ]</samp></span> |
-| cloudformation      | <span style="color:#008024"><samp>[######    ]</samp></span> |
-
-### automation
-
-|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+| GitLab CI/CD        | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
-| terraform           | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | 
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://k11h.de/blog/ansible-in-docker.html)
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
 | python              | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/jinja2-templating){:target="_blank"}
-| packer              | <span style="color:#00b333"><samp>[########  ]</samp></span> | 
-| aws lambda          | <span style="color:#00b333"><samp>[########  ]</samp></span> | [here](https://github.com/k11h-de/aws-lambda){:target="_blank"}
-| puppet              | <span style="color:#008024"><samp>[####      ]</samp></span> |
-
-### software 
-
-|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+| terraform           | <span style="color:#00992b"><samp>[#######   ]</samp></span> |                                             | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | flux (gitops)       | <span style="color:#00e641"><samp>[##########]</samp></span> | 
 | zabbix              | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
@@ -120,11 +108,11 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 <samp>
 trainings
-├── 2024.11 - [Google Cybersecurity Certified Professional]({static}/static/2024.11.Google-CyberSecurity.pdf)
-├── 2023.08 - [Sichere Webentwicklung](https://www.linuxhotel.de/course/web_sicherheit-de/)
-├── 2023.02 - [LFS458 Kubernetes Administration](https://training.linuxfoundation.org/training/kubernetes-administration/)
-├── 2022.09 - [Terraform Masterclass](https://www.tecracer.com/training/terraform-engineering/) 
-├── 2021.10 - [Angriffstechniken](https://www.linuxhotel.de/course/angriffstechniken-de) 
+├── 2024.11 - [Google Cybersecurity Certified Professional]({static}/static/2024.11.Google-CyberSecurity.pdf){:target="_blank"}
+├── 2023.08 - [Sichere Webentwicklung](https://www.linuxhotel.de/course/web_sicherheit-de/){:target="_blank"}
+├── 2023.02 - [LFS458 Kubernetes Administration](https://training.linuxfoundation.org/training/kubernetes-administration/){:target="_blank"}
+├── 2022.09 - [Terraform Masterclass](https://www.tecracer.com/training/terraform-engineering/){:target="_blank"} 
+├── 2021.10 - [Angriffstechniken](https://www.linuxhotel.de/course/angriffstechniken-de){:target="_blank"} 
 ├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
 ├── 2020.08 - AWS DevOps Engineering
 ├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
