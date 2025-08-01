@@ -72,7 +72,7 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 #### aws & infra
 
-|<samp>skill                </samp>| level                                                | <samp>proof</samp> |
+|<samp>skill                </samp>| <samp>level</samp>                                       | <samp>proof</samp> |
 | :------------------ | :----------------------------------------------------------: | --- |
 | aws eks / kubernetes| <span style="color:#00e641"><samp>[##########]</samp></span> |
 | (cloud/web) security| <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://github.com/k11h-de/zap-jenkins){:target="_blank"}
@@ -81,7 +81,7 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 | AI coding tools     | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | docker              | <span style="color:#00b333"><samp>[########  ]</samp></span> |
 | GitLab CI/CD        | <span style="color:#00b333"><samp>[########  ]</samp></span> |
-|                     |                                                              |      |
+|   |   |   |
 | ansible             | <span style="color:#00e641"><samp>[##########]</samp></span> | [here](https://github.com/k11h-de/zabbix-http-ansible){:target="_blank"}
 | bash                | <span style="color:#00cc3a"><samp>[######### ]</samp></span> | [here](https://k11h.de/blog/ansible-in-docker.html)
 | gitops with flux v2 | <span style="color:#00cc3a"><samp>[######### ]</samp></span> |
@@ -102,6 +102,7 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 <span style="color:#00b333"><samp>[########  ]</samp></span>
 <span style="color:#00992b"><samp>[#######   ]</samp></span>
 <span style="color:#008024"><samp>[######    ]</samp></span>
+<span style="color:#008024"><samp>[####      ]</samp></span>
 -->
 
 # trainings
