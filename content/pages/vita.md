@@ -120,26 +120,27 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 <samp>
 trainings
-├── 2009.07 - MySQL Cluster HA
-├── 2010.04 - F5 BigIP Essentials & Advanced
-├── 2010.11 - Oracle 10g Essentials
-├── 2012.12 - MS SQL Server 2012 Admin
-├── 2013.03 - [LPIC-1 Zertifizierung](https://www.lpi.org/de/our-certifications/lpic-1-overview){:target="_blank"}
-├── 2013.10 - [LPIC-2 Zertifizierung](https://www.lpi.org/de/our-certifications/lpic-2-overview){:target="_blank"}
-├── 2014.05 - Cisco ASA Firewall
-├── 2016.04 - Docker Orchestration Workshop
-├── 2016.09 - [MongoDB Administration](https://www.linuxhotel.de/kurs/mongodb_admin/){:target="_blank"}
-├── 2017.08 - AWS Tech Essentials
-├── 2017.11 - [Ansible Automation](https://www.heinlein-support.de/schulung/konfigurationsmanagement-mit-ansible){:target="_blank"}
-├── 2018.09 - AWS Architecting on AWS
-├── 2018.10 - AWS Systems Opterations
-├── 2018.11 - AWS Advanced Architecting
-├── 2019.09 - AWS Security Engineering
-├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
-├── 2020.08 - AWS DevOps Engineering
-├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
-├── 2021.10 - [Angriffstechniken](https://www.linuxhotel.de/course/angriffstechniken-de) 
-├── 2022.09 - [Terraform Masterclass](https://www.tecracer.com/training/terraform-engineering/) 
+├── 2024.11 - [Google Cybersecurity Certified Professional]({static}/static/2024.11.Google-CyberSecurity.pdf)
+├── 2023.08 - [Sichere Webentwicklung](https://www.linuxhotel.de/course/web_sicherheit-de/)
 ├── 2023.02 - [LFS458 Kubernetes Administration](https://training.linuxfoundation.org/training/kubernetes-administration/)
-└── 2023.08 - [Sichere Webentwicklung](https://www.linuxhotel.de/course/web_sicherheit-de/)
+├── 2022.09 - [Terraform Masterclass](https://www.tecracer.com/training/terraform-engineering/) 
+├── 2021.10 - [Angriffstechniken](https://www.linuxhotel.de/course/angriffstechniken-de) 
+├── 2020.12 - [Kali Linux Deep Dive](https://acloudguru.com/course/kali-linux-deep-dive){:target="_blank"} (e-learning)
+├── 2020.08 - AWS DevOps Engineering
+├── 2019.11 - [Kubernetes DevOps Camp](https://devops-training.de/kubernetes-camp/){:target="_blank"}
+├── 2019.09 - AWS Security Engineering
+├── 2018.11 - AWS Advanced Architecting
+├── 2018.10 - AWS Systems Opterations
+├── 2018.09 - AWS Architecting on AWS
+├── 2017.11 - [Ansible Automation](https://www.heinlein-support.de/schulung/konfigurationsmanagement-mit-ansible){:target="_blank"}
+├── 2017.08 - AWS Tech Essentials
+├── 2016.09 - [MongoDB Administration](https://www.linuxhotel.de/kurs/mongodb_admin/){:target="_blank"}
+├── 2016.04 - Docker Orchestration Workshop
+├── 2014.05 - Cisco ASA Firewall
+├── 2013.10 - [LPIC-2 Zertifizierung](https://www.lpi.org/de/our-certifications/lpic-2-overview){:target="_blank"}
+├── 2013.03 - [LPIC-1 Zertifizierung](https://www.lpi.org/de/our-certifications/lpic-1-overview){:target="_blank"}
+├── 2012.12 - MS SQL Server 2012 Admin
+├── 2010.11 - Oracle 10g Essentials
+├── 2010.04 - F5 BigIP Essentials & Advanced
+└── 2009.07 - MySQL Cluster HA
 </samp>
