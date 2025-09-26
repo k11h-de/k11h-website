@@ -119,6 +119,7 @@ If I was able to help you and you would like to support my work: [see here](http
 
 <samp>
 trainings
+├── 2025.09 - [IBM and ISC2 Cybersecurity Specialist]({static}/static/2025.09.IBM-CyberSecurity-Specialist.pdf){:target="_blank"}
 ├── 2024.11 - [Google Cybersecurity Certified Professional]({static}/static/2024.11.Google-CyberSecurity.pdf)
 ├── 2023.08 - [secure web development](https://www.linuxhotel.de/course/web_sicherheit-de/)
 ├── 2023.02 - [LFS458 kubernetes administration](https://training.linuxfoundation.org/training/kubernetes-administration/)
