@@ -7,7 +7,7 @@ menu_item: 1
 
 ## Karsten Brusch
 
-#### Senior DevOps Engineer     
+#### Senior DevOps and Security Engineer     
 ##### and security researcher
 
 # vita
@@ -46,25 +46,26 @@ If I was able to help you and you would like to support my work: [see here](http
 
 ### profiles
 
-* [openbugbounty.org](https://www.openbugbounty.org/researchers/KarstenBerlin/#tabs-11){:target="_blank"}
+* [Intigriti](https://app.intigriti.com/profile/karsten_berlin)
 * [HackerOne.com profile](https://hackerone.com/k11h)
 
 ### hall of fame
 
-* [gbe-bund.de](https://www.openbugbounty.org/reports/2343600/)
-* [bag.bund.de](https://www.openbugbounty.org/reports/2343598/)
-* [bbr.bund.de](https://www.openbugbounty.org/reports/2341841/)
-* [www.bmfsfj.de](https://www.openbugbounty.org/reports/2160291/){:target="_blank"}
-* [bibliothek.bundesarchiv.de](https://www.openbugbounty.org/reports/2337959/){:target="_blank"}
-* [lagis.landesarchiv-bw.de](https://www.openbugbounty.org/reports/2228691/){:target="_blank"}
-* [www.dakks.de](https://www.openbugbounty.org/reports/2216385/){:target="_blank"}
-* [ticker.taz.de](https://www.openbugbounty.org/reports/2304217/){:target="_blank"}
-* [www.tagesspiegel.de](https://www.openbugbounty.org/reports/2304389/){:target="_blank"}
-* [vhs-bonn.de](https://www.openbugbounty.org/reports/2216409/){:target="_blank"}
-* [kiel.de](https://www.openbugbounty.org/reports/2357795/)
-* [amtsblatt.bremen.de](https://www.openbugbounty.org/reports/2305680/)
-* [fremdenverkehrsamt.com](https://www.openbugbounty.org/reports/2203713/)
-
+* [bafoeg-digital.de](https://www.init.de/security/thanks/){:target="_blank"}
+* [bayer.com](https://www.bayer.com/en/cybersecurity-hall-of-fame){:target="_blank"}
+* [bmdv.bund.de](https://www.init.de/security/thanks/){:target="_blank"}
+* [ibm.com](https://www.ibm.com/support/pages/node/6610583){:target="_blank"}
+* [www.bmfsfj.de](https://www.init.de/security/thanks/){:target="_blank"}
+* bag.bund.de
+* bbr.bund.de
+* bibliothek.bundesarchiv.de
+* bonn.de
+* bremen.de
+* fremdenverkehrsamt.com
+* heise.de
+* kiel.de
+* tagesspiegel.de
+* ticker.taz.de
 
 # skills
 
