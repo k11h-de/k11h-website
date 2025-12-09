@@ -5,7 +5,8 @@ slug: bbot-ui
 
 ### what is it
 
-A self-contained terminal UI for browsing and analyzing BBOT scan results
+A self-contained terminal UI for browsing and analyzing bbot scan results.
+bbot is an awesome [tool made by blacklanternSecurity](https://www.blacklanternsecurity.com/bbot/).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -13,7 +14,7 @@ A self-contained terminal UI for browsing and analyzing BBOT scan results
 [![GitHub release](https://img.shields.io/github/v/release/k11h-de/bbot-ui)](https://github.com/k11h-de/bbot-ui/releases)
 [![Textual TUI](https://img.shields.io/badge/TUI-Textual-blueviolet)](https://textual.textualize.io/)
 
-![screenshot](https://github.com/k11h-de/bbot-ui/blob/main/docs/demo.gif?raw=true)
+[![screenshot](https://github.com/k11h-de/bbot-ui/blob/main/docs/demo.gif?raw=true)](https://github.com/k11h-de/bbot-ui)
 
 #### source 
 
