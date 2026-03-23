@@ -5,7 +5,9 @@ slug: slac-2026
 
 ### conference workshop
 
-Web App Security & Bug Bounty Lessons Learned – SLAC 2026 (May 13, 2026)
+I will give a workshop on Web App Security & Bug Bounty Lessons Learned on the SLAC Conference 2026 (May 13, 2026)
+
+The topics covered are:
 
 * Real-world vulnerabilities (SQLi, XSS, RCE, Path Traversal) based on actual Bug Bounty reports
 * Attacker's perspective: how external researchers think and what internal teams miss
