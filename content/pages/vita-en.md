@@ -7,7 +7,7 @@ menu_item: 1
 
 ## Karsten Brusch
 
-#### Senior DevOps and Security Engineer     
+#### Security Engineer, Senior DevOps and Cloud Solution Architect 
 ##### and security researcher
 
 # vita

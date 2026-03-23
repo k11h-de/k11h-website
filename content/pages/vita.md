@@ -9,7 +9,7 @@ save_as: index.html
 
 ## Karsten Brusch
 
-#### Senior DevOps, IT Security Engineer 
+#### Security Engineer, Senior DevOps, Cloud Solution Architect
 ##### und IT Sicherheitsforscher
 
 # vita
