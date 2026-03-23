@@ -17,6 +17,6 @@ The topics covered are:
 * Actionable takeaways for Admins, DevOps & Security Engineers
 
 
-#### source 
+#### more details and registration 
 
 the details page can be found [here](https://www.heinlein-support.de/slac/2026/workshop/web-app-security-bug-bounty){:target="_blank"}
