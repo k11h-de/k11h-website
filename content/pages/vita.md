@@ -5,7 +5,7 @@ menu_item: 1
 url:
 save_as: index.html
 
-<p class='portrait' markdown="1">![portrait]({static}/images/portrait.jpg)</p>
+<p class='portrait' markdown="1">![portrait]({static}/images/portrait.png)</p>
 
 ## Karsten Brusch
 
