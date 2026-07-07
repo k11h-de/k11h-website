@@ -111,6 +111,7 @@ Wenn ich Ihnen bereits helfen konnte und Sie meine Arbeit unterstützen möchten
 
 <samp>
 trainings
+├── 2026.07 - [GitLab Certified Security Associate]({static}/static/2026.07.GitLab-Certified-Security-Associate.pdf){:target="_blank"}
 ├── 2025.09 - [IBM and ISC2 Cybersecurity Specialist]({static}/static/2025.09.IBM-CyberSecurity-Specialist.pdf){:target="_blank"}
 ├── 2024.11 - [Google Cybersecurity Certified Professional]({static}/static/2024.11.Google-CyberSecurity.pdf){:target="_blank"}
 ├── 2023.08 - [Sichere Webentwicklung](https://www.linuxhotel.de/course/web_sicherheit-de/){:target="_blank"}
