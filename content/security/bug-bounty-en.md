@@ -22,7 +22,7 @@ you can support my work in different ways:
 * software licence (e.g. [Burp Suite](https://portswigger.net/burp/pro): 350€/year)
 * a planned training and [certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) as ethical hacker (ca. 2500€)
 
-[![PayPal](https://upload.wikimedia.org/wikipedia/commons/3/31/PayPal_Logo2014.svg){:height="50px"}](https://paypal.me/KarBerlin){:target="_blank"}         
+[![PayPal](https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg){:height="50px"}](https://paypal.me/KarBerlin){:target="_blank"}         
 [https://paypal.me/KarBerlin](https://paypal.me/KarBerlin){:target="_blank"}
 
 #### 2) Amazon wishlist
