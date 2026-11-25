@@ -42,7 +42,9 @@
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--fg); font: 1rem/1.7 var(--sans); -webkit-font-smoothing: antialiased; }
-img { max-width: 100%; height: auto; }
+img { max-width: 100%; }
+img:not([height]), img[width][height] { height: auto; } /* keep {:height="…"} from markdown */
+.prose a { overflow-wrap: anywhere; } /* long bare URLs on phones */
 a { color: var(--teal); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: .2em; }
 :focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; border-radius: 4px; }
