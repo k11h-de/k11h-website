@@ -10,7 +10,6 @@ Ich investiere gern einen Teil meiner Freizeit in die Suche und das Melden von S
 Dennoch möchten sich die meisten Betreiber gern erkenntlich zeigen und meine Arbeit unterstützen.
 
         
-         
        
 ## Unterstützung 
 
@@ -38,3 +37,14 @@ via [LinkedIn](https://www.linkedin.com/in/karsten-brusch-a11a782ab/){:target="_
 
 oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](https://www.spreadshirt.de/shop/maenner/bekleidung/t-shirts/?size=4) (in Größe L).
 
+
+## Hinweis zu Belohnungen
+
+Eine Belohnung erwarte ich nicht. Zur Orientierung dienen die Medianwerte unten, die andere Unternehmen auf der Bug-Bounty Plattform Intigriti je nach CVSS-Stufen auszahlen. Wenn Sie sich erkenntlich zeigen möchten, sind sie ein guter Anhaltspunkt.
+  
+Medianwerte der Belohnungen auf der Plattform Intigriti gestaffelt nach CVSS
+
+| | Low | Medium | High | Critical | Exceptional |
+|---|---:|---:|---:|---:|---:|
+| **CVSS-Score** | 0,1–3,9 | 4,0–6,9 | 7,0–8,9 | 9,0–9,4 | 9,5–10,0 |
+| **Median Belohnung** | 100 € | 260 € | 780 € | 1.590 € | 2.500 € |
