@@ -7,8 +7,8 @@ menu_item: 8
 Information in accordance with Section 5 TMG
 
 Karsten Brusch
-Garystr. 76
-14195 Berlin
+Martin-Buber-Str. 12
+14163 Berlin
 
 # Contact Information
 Telephone: +49 30 50341959

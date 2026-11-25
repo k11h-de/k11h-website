@@ -8,8 +8,8 @@ menu_item: 8
 Angaben gemäß § 5 TMG
 
 Karsten Brusch
-Garystr. 76
-14195 Berlin
+Martin-Buber-Str. 12
+14163 Berlin
 
 Vertreten durch:
 Karsten Brusch
