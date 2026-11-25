@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% from "partial/macros.html" import iso %}
+{% block title %}archive · {% endblock %}
+{% block content %}
+<section class="listing">
+  <h1 class="listing__title">archive</h1>
+  {%- for year, items in dates|groupby('date.year')|reverse %}
+  <h2 class="archive__year">{{ year }}</h2>
+  <ul class="archive">
+    {%- for article in items|sort(attribute='date', reverse=True) %}
+    <li><time datetime="{{ article.date.isoformat() }}">{{ iso(article.date) }}</time> <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+    {%- endfor %}
+  </ul>
+  {%- endfor %}
+</section>
+{% endblock %}

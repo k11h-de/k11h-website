@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% from "partial/macros.html" import iso, excerpt, cat %}
+{% block title %}blog · {% endblock %}
+{% block content %}
+<section class="listing">
+  {% block listing_title %}
+  <h1 class="listing__title">blog</h1>
+  <p class="listing__cmd"><span>$</span> ls -lt ~/blog <span>| head -{{ DEFAULT_PAGINATION }}</span></p>
+  {% endblock %}
+  <div class="grid">
+  {%- for article in articles_page.object_list %}
+    <article class="card{% if loop.first and not articles_page.has_previous() %} card--lead{% endif %}">
+      <p class="card__meta">
+        {%- set c = cat(article) %}<span class="badge{% if c %} badge--{{ c }}{% endif %}">{{ c or '-' }}</span>
+        <time datetime="{{ article.date.isoformat() }}">{{ iso(article.date) }}</time>
+      </p>
+      <h2 class="card__title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+      <p class="card__text">{{ excerpt(article, 180 if not loop.first else 280) }}</p>
+      {%- if article.tags %}
+      <ul class="tags">{% for t in article.tags %}<li><a href="{{ SITEURL }}/{{ t.url }}">{{ t }}</a></li>{% endfor %}</ul>
+      {%- endif %}
+    </article>
+  {%- endfor %}
+  </div>
+  {% include "partial/pagination.html" %}
+  <p class="listing__more"><a href="{{ SITEURL }}/{{ ARCHIVES_SAVE_AS }}">archive</a> · <a href="{{ SITEURL }}/{{ TAGS_SAVE_AS }}">tags</a></p>
+</section>
+{% endblock %}

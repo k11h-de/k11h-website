@@ -1,0 +1,36 @@
+{%- set obj = article if article is defined and article else (page if page is defined and page else None) -%}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="{% if page is defined and page in hidden_pages %}noindex, nofollow{% else %}{{ ROBOTS }}{% endif %}">
+  <meta name="color-scheme" content="light dark">
+  <meta name="author" content="{{ AUTHOR }}">
+  {%- if obj and obj.summary %}
+  <meta name="description" content="{{ obj.summary|striptags|truncate(160, end='…')|e }}">
+  {%- elif SITESUBTITLE %}
+  <meta name="description" content="{{ SITESUBTITLE }}">
+  {%- endif %}
+  <meta property="og:site_name" content="{{ SITENAME }}">
+  <meta property="og:title" content="{{ obj.title|striptags if obj else SITENAME }}">
+  <meta property="og:type" content="{{ 'article' if article is defined and article else 'website' }}">
+  <meta property="og:url" content="{{ SITEURL }}/{{ obj.url if obj else '' }}">
+  <meta property="og:image" content="{{ SITEURL }}/images/portrait.png">
+  {%- if obj and obj.translations %}
+  <link rel="alternate" hreflang="{{ obj.lang }}" href="{{ SITEURL }}/{{ obj.url }}">
+  {%- for t in obj.translations %}
+  <link rel="alternate" hreflang="{{ t.lang }}" href="{{ SITEURL }}/{{ t.url }}">
+  {%- endfor %}
+  {%- endif %}
+  {%- if FEED_ALL_ATOM %}
+  <link rel="alternate" type="application/atom+xml" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" title="{{ SITENAME }} Atom">
+  {%- endif %}
+  <link rel="icon" href="{{ SITEURL }}/favicon.ico" sizes="any">
+  {%- if SITELOGO %}
+  <link rel="icon" href="{{ SITEURL }}{{ SITELOGO }}" type="image/svg+xml">
+  {%- endif %}
+  <link rel="apple-touch-icon" href="{{ SITEURL }}/images/apple-touch-icon.png">
+  {#- skin.js picks sidebar|terminal and light|dark|auto from localStorage before first paint -#}
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/skin.js" data-css="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/"></script>
+  <noscript>
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/skin-sidebar.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments-sidebar.css">
+  </noscript>

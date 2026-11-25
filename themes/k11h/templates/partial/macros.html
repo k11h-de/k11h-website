@@ -1,0 +1,39 @@
+{#- shared helpers for all k11h theme proposals -#}
+
+{% macro iso(d) -%}{{ d.strftime('%Y-%m-%d') }}{%- endmacro %}
+
+{% macro lang_switch(obj) -%}
+  {%- if obj and obj.translations %}
+  <nav class="lang" aria-label="language">
+    <a class="is-active" href="{{ SITEURL }}/{{ obj.url }}" hreflang="{{ obj.lang }}" aria-current="true">{{ obj.lang }}</a>
+    {%- for t in obj.translations %}
+    <a href="{{ SITEURL }}/{{ t.url }}" hreflang="{{ t.lang }}" lang="{{ t.lang }}">{{ t.lang }}</a>
+    {%- endfor %}
+  </nav>
+  {%- endif %}
+{%- endmacro %}
+
+{% macro tags(article) -%}
+  {%- if article.tags %}
+  <ul class="tags">
+    {%- for tag in article.tags %}
+    <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+{%- endmacro %}
+
+{#- current content object and language, usable in every template -#}
+{% macro excerpt(article, n=200) -%}
+  {#- drop a leading heading so teasers start with real text -#}
+  {%- set c = article.summary.lstrip() -%}
+  {%- if c.startswith('<h') and '</h' in c -%}{%- set c = c.split('</h', 1)[1].split('>', 1)[1] -%}{%- endif -%}
+  {{ c|striptags|truncate(n, killwords=False, end=' …') }}
+{%- endmacro %}
+
+{#- Pelican >= 4.12 drops folder categories when CATEGORY_SAVE_AS is empty; fall back to the folder name -#}
+{% macro cat(article) -%}
+  {%- if article.category -%}{{ article.category }}
+  {%- elif article.relative_source_path and '/' in article.relative_source_path -%}{{ article.relative_source_path.split('/')[0] }}
+  {%- endif -%}
+{%- endmacro %}

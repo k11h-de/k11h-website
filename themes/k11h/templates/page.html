@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% from "partial/macros.html" import lang_switch %}
+{% block title %}{% if page.slug != 'vita' %}{{ page.title|striptags }} · {% endif %}{% endblock %}
+{% block content %}
+{%- set own_h1 = page.content.strip().startswith('<h1') %}
+<article class="page page--{{ page.slug }}">
+  {%- if page.translations %}
+  <div class="page__tools">{{ lang_switch(page) }}</div>
+  {%- endif %}
+  {%- if page.slug != 'vita' and not own_h1 %}
+  <h1 class="page__title">{{ page.title }}</h1>
+  {%- endif %}
+  <div class="prose">
+    {{ page.content }}
+  </div>
+</article>
+{% endblock %}

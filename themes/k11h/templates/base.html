@@ -1,0 +1,60 @@
+{%- set obj = article if article is defined and article else (page if page is defined and page else None) -%}
+{%- set cur_lang = obj.lang if obj else DEFAULT_LANG -%}
+{%- set active = (page.slug if page is defined and page else 'blog') -%}
+<!doctype html>
+<html lang="{{ cur_lang }}" data-skin="sidebar">
+<head>
+{% include "partial/head.html" %}
+  <title>{% block title %}{% endblock %}{{ SITENAME }}</title>
+</head>
+<body>
+  <a class="skip" href="#main">skip to content</a>
+  <div class="shell">
+    <header class="side">
+      <div class="side__card">
+        <a class="side__brand" href="{{ SITEURL }}/" aria-label="{{ SITENAME }}">
+          {% include "partial/logo.html" %}
+          <span class="side__id">
+            <span class="side__title">{{ SITETITLE }}</span>
+            {%- if SITESUBTITLE %}<span class="side__sub">{{ SITESUBTITLE }}</span>{% endif %}
+          </span>
+          <span class="prompt" aria-hidden="true"><span class="prompt__user">karsten</span><span class="prompt__at">@</span><span class="prompt__host">k11h</span><span class="prompt__path">:~/{{ active if active != 'vita' else '' }}</span><span class="prompt__sign">$</span><span class="cursor"></span></span>
+        </a>
+        <nav class="side__nav" aria-label="main">
+          {%- for p in pages %}
+            {%- set tr = p.translations|selectattr('lang', 'equalto', cur_lang)|list %}
+            {%- set target = tr[0] if tr and p.lang != cur_lang else p %}
+          <a href="{{ SITEURL }}/{{ target.url }}"{% if active == p.slug %} aria-current="page"{% endif %}>{{ p.title|lower }}</a>
+          {%- endfor %}
+          {%- for name, link in LINKS %}
+          <a href="{{ link }}"{% if active == name %} aria-current="page"{% endif %}>{{ name }}</a>
+          {%- endfor %}
+        </nav>
+        <ul class="side__social">
+          {%- for name, link in SOCIAL %}
+          <li><a class="chip" href="{{ link }}"{% if not link.startswith('/') %} rel="me noopener" target="_blank"{% endif %}>{{ {'github':'GitHub','xing':'XING','linkedin':'LinkedIn','rss':'RSS'}.get(name, name) }}</a></li>
+          {%- endfor %}
+        </ul>
+        <div class="side__tools" hidden>
+          <button type="button" class="tool" data-action="theme"><span aria-hidden="true">◐</span></button>
+          <button type="button" class="tool tool--skin" data-action="skin" aria-pressed="false" title="terminal mode" aria-label="terminal mode">&gt;_</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main" class="main">
+      {% block content %}{% endblock %}
+
+      <footer class="foot">
+        <p class="foot__line"><span class="foot__hash">#</span> © {{ COPYRIGHT_YEAR }} Karsten Brusch · Berlin</p>
+        <ul class="foot__links">
+          {%- for name, link in SOCIAL %}
+          <li><a href="{{ link }}"{% if not link.startswith('/') %} rel="me noopener" target="_blank"{% endif %}>{{ name }}</a></li>
+          {%- endfor %}
+        </ul>
+        <p class="foot__exit">exit 0</p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

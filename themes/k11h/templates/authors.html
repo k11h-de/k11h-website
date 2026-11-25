@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}authors · {% endblock %}
+{% block content %}
+<section class="listing">
+  <h1 class="listing__title">authors</h1>
+  <ul class="tags tags--cloud">
+  {%- for author, articles in authors %}
+    <li><a href="{{ SITEURL }}/{{ author.url }}">{{ author }} <span class="count">{{ articles|count }}</span></a></li>
+  {%- endfor %}
+  </ul>
+</section>
+{% endblock %}

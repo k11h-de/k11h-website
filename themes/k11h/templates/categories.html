@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}categories · {% endblock %}
+{% block content %}
+<section class="listing">
+  <h1 class="listing__title">categories</h1>
+  <ul class="tags tags--cloud">
+  {%- for category, articles in categories %}
+    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }} <span class="count">{{ articles|count }}</span></a></li>
+  {%- endfor %}
+  </ul>
+</section>
+{% endblock %}
