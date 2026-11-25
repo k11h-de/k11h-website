@@ -1,5 +1,6 @@
 {%- set obj = article if article is defined and article else (page if page is defined and page else None) -%}
 {%- set cur_lang = obj.lang if obj else DEFAULT_LANG -%}
+{%- from "partial/icons.html" import icon, ui -%}
 {%- set active = (page.slug if page is defined and page else 'blog') -%}
 <!doctype html>
 <html lang="{{ cur_lang }}" data-skin="sidebar">
@@ -30,14 +31,17 @@
           <a href="{{ link }}"{% if active == name %} aria-current="page"{% endif %}>{{ name }}</a>
           {%- endfor %}
         </nav>
-        <ul class="side__social">
-          {%- for name, link in SOCIAL %}
-          <li><a class="chip" href="{{ link }}"{% if not link.startswith('/') %} rel="me noopener" target="_blank"{% endif %}>{{ {'github':'GitHub','xing':'XING','linkedin':'LinkedIn','rss':'RSS'}.get(name, name) }}</a></li>
-          {%- endfor %}
-        </ul>
-        <div class="side__tools" hidden>
-          <button type="button" class="tool" data-action="theme"><span aria-hidden="true">◐</span></button>
-          <button type="button" class="tool tool--skin" data-action="skin" aria-pressed="false" title="terminal mode" aria-label="terminal mode">&gt;_</button>
+        <div class="side__bar">
+          <ul class="side__social">
+            {%- for name, link in SOCIAL %}
+            {%- set label = {'github':'GitHub','xing':'XING','linkedin':'LinkedIn','rss':'RSS feed'}.get(name, name) %}
+            <li><a class="soc" href="{{ link }}" title="{{ label }}" aria-label="{{ label }}"{% if not link.startswith('/') %} rel="me noopener" target="_blank"{% endif %}>{{ icon(name) or name }}</a></li>
+            {%- endfor %}
+          </ul>
+          <div class="side__tools" role="group" aria-label="Darstellung" hidden>
+            <button type="button" class="tool tool--theme" data-action="theme" data-state="auto">{{ ui('auto') }}{{ ui('light') }}{{ ui('dark') }}</button>
+            <button type="button" class="tool tool--skin" data-action="skin" aria-pressed="false" title="Terminal-Ansicht" aria-label="Terminal-Ansicht">{{ ui('terminal') }}</button>
+          </div>
         </div>
       </div>
     </header>

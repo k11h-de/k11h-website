@@ -7,7 +7,6 @@
   var base = me.getAttribute('data-css');
   var SKINS = ['sidebar', 'terminal'];
   var THEMES = ['auto', 'dark', 'light'];
-  var ICON = { auto: '◐', dark: '☾', light: '☀' };
   var LABEL = { auto: 'Farbschema: automatisch', dark: 'Farbschema: dunkel', light: 'Farbschema: hell' };
 
   function get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
@@ -42,7 +41,7 @@
     var tb = tools.querySelector('[data-action=theme]');
     var sb = tools.querySelector('[data-action=skin]');
     function paint() {
-      tb.firstChild.textContent = ICON[theme];
+      tb.setAttribute('data-state', theme);
       tb.setAttribute('aria-label', LABEL[theme]);
       tb.title = LABEL[theme];
       sb.setAttribute('aria-pressed', skin === 'terminal' ? 'true' : 'false');

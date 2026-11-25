@@ -76,11 +76,17 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 .side__nav a:hover { color: var(--fg); background: var(--bg-3); }
 .side__nav a[aria-current] { color: var(--bg); background: var(--accent); }
 .side__nav a[aria-current]::before { color: inherit; opacity: .6; }
+.side__bar { display: contents; }
 .side__tools { display: flex; gap: .3rem; }
 .side__tools[hidden] { display: none; }
-.tool { font: 600 .8rem/1 var(--mono); color: var(--fg-dim); background: transparent; border: 1px solid var(--line); border-radius: var(--radius); padding: .35rem .55rem; cursor: pointer; }
+.tool { display: grid; place-items: center; font: 600 .8rem/1 var(--mono); color: var(--fg); background: transparent; border: 1px solid var(--line); border-radius: var(--radius); padding: .35rem .55rem; cursor: pointer; }
 .tool:hover { color: var(--accent); border-color: var(--accent); }
 .tool[aria-pressed="true"] { color: var(--bg); background: var(--accent); border-color: var(--accent); }
+/* switches: one grouped control, icon shows the current colour scheme */
+.ui { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; display: block; }
+.ui .fill { fill: currentColor; stroke: none; }
+.tool--theme .ui { display: none; }
+.tool--theme[data-state="auto"] .ui--auto, .tool--theme[data-state="light"] .ui--light, .tool--theme[data-state="dark"] .ui--dark { display: block; }
 @media (max-width: 40rem) { .side__card { gap: .5rem .8rem; } .side__brand { width: 100%; } }
 
 .main { max-width: var(--w); margin: 0 auto; padding: 2.5rem 1.25rem 0; min-height: 70vh; }

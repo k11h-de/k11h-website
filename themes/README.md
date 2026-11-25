@@ -6,8 +6,8 @@ Own Pelican theme, replaces the Flex submodule. No external requests (no web fon
 
 | | default | switch |
 |---|---|---|
-| skin | `sidebar`: sticky side card, logo gradient, blog as card grid | `>_` button → `terminal`: prompt bar, monospace chrome, blog as `ls -lt` list |
-| colour | follows the OS (`prefers-color-scheme`) | `◐` button cycles auto → dark → light |
+| skin | `sidebar`: sticky side card, logo gradient, blog as card grid | terminal-icon button → `terminal`: prompt bar, monospace chrome, blog as `ls -lt` list |
+| colour | follows the OS (`prefers-color-scheme`) | colour button (half circle / sun / moon) cycles auto → dark → light |
 
 Both choices are stored in `localStorage` (`k11h-skin`, `k11h-theme`). `static/js/skin.js` runs in `<head>` and writes the right stylesheet links before first paint, so there is no flash. Without JS the sidebar skin loads via `<noscript>` and the buttons stay hidden.
 
@@ -19,6 +19,7 @@ Both skins share one markup (`templates/`); everything visual lives in `static/c
 themes/
   k11h/templates/          base, index, article, page, tags, archives, partials
   k11h/templates/partial/logo.html   inline copy of content/images/logo.svg (ink colour from CSS)
+  k11h/templates/partial/icons.html  icon(): social icons (Font Awesome Free 5.13, CC BY 4.0), ui(): switch icons (own)
   k11h/static/css/         skin-sidebar.css, skin-terminal.css, pygments-<skin>.css (generated)
   k11h/static/js/skin.js   skin + colour switch
   logos/make_logos.py      generates the logo (variant C is in use) + the two discarded variants
