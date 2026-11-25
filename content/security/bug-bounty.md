@@ -41,7 +41,9 @@ oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](http
 ## Hinweis zu Belohnungen
 
 Eine Belohnung erwarte ich nicht. Zur Orientierung dienen die Medianwerte unten, die andere Unternehmen auf der Bug-Bounty Plattform Intigriti je nach CVSS-Stufen auszahlen. Wenn Sie sich erkenntlich zeigen möchten, sind sie ein guter Anhaltspunkt.
-  
+
+**Was ist CVSS?** Das Common Vulnerability Scoring System (CVSS) ist eine standardisierte Skala von 0,0 bis 10,0 zur Bewertung des Schweregrads einer Sicherheitslücke. Je höher der Wert, desto kritischer die Schwachstelle. Die Skala wird von FIRST (Forum of Incident Response and Security Teams) gepflegt.
+
 Medianwerte der Belohnungen auf der Plattform Intigriti gestaffelt nach CVSS
 
 | | Low | Medium | High | Critical | Exceptional |

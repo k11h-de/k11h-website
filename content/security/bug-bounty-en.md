@@ -43,6 +43,8 @@ or simply by saying "thank you" or a funny [t-shirt](https://www.spreadshirt.de/
 I don't expect a reward. For orientation, the median payouts that other companies make on the bug bounty platform Intigriti, by CVSS severity level, are shown below.   
 If you'd like to show your appreciation, they are a good reference point.
 
+**What is CVSS?** The Common Vulnerability Scoring System (CVSS) is a standardized scale from 0.0 to 10.0 for rating the severity of a security vulnerability. The higher the score, the more serious the vulnerability. It is maintained by FIRST (Forum of Incident Response and Security Teams).
+
 Median rewards on the Intigriti platform, by CVSS score
 
 | | Low | Medium | High | Critical | Exceptional |
