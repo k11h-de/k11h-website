@@ -21,12 +21,12 @@ Wenn Sie meine Arbeit unterstützen möchten können Sie dies auf folgende Weise
 * Software Lizenzen (z.B. [Burp Suite](https://portswigger.net/burp/pro): 350€/Jahr)
 * die geplante Schulung und [Zertifizierung](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) als Ethical Hacker (ca. 2500€)
 
-[![PayPal](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/124px-PayPal.svg.png){:height="50px"}](https://paypal.me/KarBerlin){:target="_blank"}         
+[![PayPal](https://commons.wikimedia.org/wiki/File:PayPal.svg#/media/File:PayPal_Logo2014.svg.png){:height="50px"}](https://paypal.me/KarBerlin){:target="_blank"}         
 [https://paypal.me/KarBerlin](https://paypal.me/KarBerlin){:target="_blank"}
 
 #### 2) Amazon-Wunschliste
 
-[![Amazon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/320px-Amazon_logo.svg.png){:height="50px"}](https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB){:target="_blank"}         
+[![Amazon](https://commons.wikimedia.org/wiki/File:Amazon_logo.svg#/media/File:Amazon_2024.svg.png){:height="50px"}](https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB){:target="_blank"}         
 [https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB](https://www.amazon.de/hz/wishlist/ls/16BKUO7S8QAYB)
 
 #### 3) Eine Empfehlung 
