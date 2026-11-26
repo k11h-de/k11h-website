@@ -40,15 +40,36 @@ or simply by saying "thank you" or a funny [t-shirt](https://www.spreadshirt.de/
 
 ## Reward Notes
 
-I don't expect a reward. For orientation, the median payouts that other companies make on the bug bounty platform Intigriti, by CVSS severity level, are shown below.   
-If you'd like to show your appreciation, they are a good reference point.
+I don't expect a reward. If you'd like to show your appreciation, the two tables below are a good reference point. The lower end of each range is fine with me.
 
-Median rewards on the Intigriti platform, by CVSS score
+Once you have fixed the issue, I'm happy to retest it. A short email is enough.
+
+#### Bugcrowd recommendation
+
+The bug bounty platform Bugcrowd derives reference amounts from data of nearly 1,000 programs (as of 2023). For previously untested web applications it recommends:
+
+| Severity | CVSS score | Recommendation |
+|---|---|---:|
+| Low | 0.1–3.9 | $125 |
+| Medium | 4.0–6.9 | $400–600 |
+| High | 7.0–8.9 | $1,000–1,200 |
+| Critical | 9.0–10.0 | $2,100–2,500 |
+
+Source: [Bugcrowd, Defensive Vulnerability Pricing Model (PDF)](https://www.bugcrowd.com/wp-content/uploads/2023/12/bugcrowd-whats-a-bug-worth.pdf){:target="_blank"}
+
+Bugcrowd rates by priority P4 to P1. The mapping to CVSS ranges is my approximation. For systems handling personal, health or financial data, Bugcrowd recommends higher amounts. Reference amounts for APIs and mobile apps are higher as well.
+
+#### Median payouts on Intigriti
+
+Median payouts by companies on the bug bounty platform Intigriti, by CVSS score:
 
 | | Low | Medium | High | Critical | Exceptional |
 |---|---:|---:|---:|---:|---:|
-| **CVSS-Score** | 0,1–3,9 | 4,0–6,9 | 7,0–8,9 | 9,0–9,4 | 9,5–10,0 |
-| **Median Belohnung** | 100 € | 260 € | 780 € | 1.590 € | 2.500 € |
+| **CVSS score** | 0.1–3.9 | 4.0–6.9 | 7.0–8.9 | 9.0–9.4 | 9.5–10.0 |
+| **Median reward** | €100 | €260 | €780 | €1,590 | €2,500 |
 
+#### What is CVSS?
 
-**What is CVSS?** The Common Vulnerability Scoring System (CVSS) is a standardized scale from 0.0 to 10.0 for rating the severity of a security vulnerability. The higher the score, the more serious the vulnerability. It is maintained by FIRST (Forum of Incident Response and Security Teams).
+The Common Vulnerability Scoring System (CVSS) is a standardized scale from 0.0 to 10.0 for rating the severity of a security vulnerability. The higher the score, the more serious the vulnerability. It is maintained by FIRST (Forum of Incident Response and Security Teams).
+
+A good interactive calculator is provided by [turingpoint](https://turingpoint.de/calculator/cvss-wizard/?version=3.1&step=1){:target="_blank"}. It walks you through a CVSS 3.1 rating step by step.

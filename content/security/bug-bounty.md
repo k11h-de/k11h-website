@@ -40,14 +40,36 @@ oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](http
 
 ## Hinweis zu Belohnungen
 
-Eine Belohnung erwarte ich nicht. Zur Orientierung dienen die Medianwerte unten, die andere Unternehmen auf der Bug-Bounty Plattform Intigriti je nach CVSS-Stufen auszahlen. Wenn Sie sich erkenntlich zeigen möchten, sind sie ein guter Anhaltspunkt.
+Eine Belohnung erwarte ich nicht. Wenn Sie sich erkenntlich zeigen möchten, bieten die beiden Tabellen unten einen Anhaltspunkt. Mir genügt jeweils die untere Grenze.
 
-Medianwerte der Belohnungen auf der Plattform Intigriti gestaffelt nach CVSS
+Nach Ihrem Fix prüfe ich die Lücke gern erneut. Eine kurze Mail genügt.
+
+#### Empfehlung von Bugcrowd
+
+Die Bug-Bounty-Plattform Bugcrowd leitet aus Daten von fast 1.000 Programmen Richtwerte ab (Stand 2023). Für bisher ungetestete Web-Anwendungen nennt sie folgende Beträge:
+
+| Schweregrad | CVSS-Score | Empfehlung |
+|---|---|---:|
+| Low | 0,1–3,9 | 125 $ |
+| Medium | 4,0–6,9 | 400–600 $ |
+| High | 7,0–8,9 | 1.000–1.200 $ |
+| Critical | 9,0–10,0 | 2.100–2.500 $ |
+
+Quelle: [Bugcrowd, Defensive Vulnerability Pricing Model (PDF)](https://www.bugcrowd.com/wp-content/uploads/2023/12/bugcrowd-whats-a-bug-worth.pdf){:target="_blank"}
+
+Bugcrowd stuft nach Prioritäten P4 bis P1 ein. Die Zuordnung zu den CVSS-Bereichen ist meine Näherung. Für Systeme mit personenbezogenen, Gesundheits- oder Finanzdaten empfiehlt Bugcrowd höhere Beträge. Für APIs und mobile Apps liegen die Richtwerte ebenfalls höher.
+
+#### Medianwerte auf Intigriti
+
+So viel zahlen Unternehmen auf der Bug-Bounty-Plattform Intigriti im Median, gestaffelt nach CVSS:
 
 | | Low | Medium | High | Critical | Exceptional |
 |---|---:|---:|---:|---:|---:|
 | **CVSS-Score** | 0,1–3,9 | 4,0–6,9 | 7,0–8,9 | 9,0–9,4 | 9,5–10,0 |
 | **Median Belohnung** | 100 € | 260 € | 780 € | 1.590 € | 2.500 € |
 
+#### Was ist CVSS?
 
-**Was ist CVSS?** Das Common Vulnerability Scoring System (CVSS) ist eine standardisierte Skala von 0,0 bis 10,0 zur Bewertung des Schweregrads einer Sicherheitslücke. Je höher der Wert, desto kritischer die Schwachstelle. Die Skala wird von FIRST (Forum of Incident Response and Security Teams) gepflegt.
+Das Common Vulnerability Scoring System (CVSS) ist eine standardisierte Skala von 0,0 bis 10,0 zur Bewertung des Schweregrads einer Sicherheitslücke. Je höher der Wert, desto kritischer die Schwachstelle. Die Skala wird von FIRST (Forum of Incident Response and Security Teams) gepflegt.
+
+Einen guten interaktiven Rechner bietet [turingpoint](https://turingpoint.de/calculator/cvss-wizard/?version=3.1&step=1){:target="_blank"}. Er führt Schritt für Schritt durch die Bewertung nach CVSS 3.1.
