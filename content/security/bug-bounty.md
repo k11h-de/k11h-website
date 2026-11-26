@@ -48,10 +48,10 @@ Die Bug-Bounty-Plattform Bugcrowd leitet aus Programmen von fast 1.000 Unternehm
 
 | Schweregrad | CVSS-Score | Empfehlung |
 |---|---|---:|
-| Low | 0,1–3,9 | 125 $ |
-| Medium | 4,0–6,9 | 400–600 $ |
-| High | 7,0–8,9 | 1.000–1.200 $ |
-| Critical | 9,0–10,0 | 2.100–2.500 $ |
+| Low | 0,1–3,9 | 125 € |
+| Medium | 4,0–6,9 | 400–600 € |
+| High | 7,0–8,9 | 1.000–1.200 € |
+| Critical | 9,0–10,0 | 2.100–2.500 € |
 
 Quelle: [Bugcrowd, Defensive Vulnerability Pricing Model (PDF)](https://www.bugcrowd.com/wp-content/uploads/2023/12/bugcrowd-whats-a-bug-worth.pdf){:target="_blank"}
 
