@@ -40,13 +40,11 @@ oder ganz klassisch mit einem "Danke sehr" oder einem originellen [T-Shirt](http
 
 ## Hinweis zu Belohnungen
 
-Eine Belohnung erwarte ich nicht. Wenn Sie sich erkenntlich zeigen möchten, bieten die beiden Tabellen unten einen Anhaltspunkt. Mir genügt jeweils die untere Grenze.
-
-Nach Ihrem Fix prüfe ich die Lücke gern erneut. Eine kurze Mail genügt.
+Eine Belohnung erwarte ich nicht. Wenn Sie sich erkenntlich zeigen möchten, bieten die beiden Tabellen unten einen Anhaltspunkt.
 
 #### Empfehlung von Bugcrowd
 
-Die Bug-Bounty-Plattform Bugcrowd leitet aus Daten von fast 1.000 Programmen Richtwerte ab (Stand 2023). Für bisher ungetestete Web-Anwendungen nennt sie folgende Beträge:
+Die Bug-Bounty-Plattform Bugcrowd leitet aus Programmen von fast 1.000 Unternehmen Richtwerte ab (Stand 2023). Für bisher ungetestete Web-Anwendungen nennt sie folgende Beträge:
 
 | Schweregrad | CVSS-Score | Empfehlung |
 |---|---|---:|
@@ -57,7 +55,7 @@ Die Bug-Bounty-Plattform Bugcrowd leitet aus Daten von fast 1.000 Programmen Ric
 
 Quelle: [Bugcrowd, Defensive Vulnerability Pricing Model (PDF)](https://www.bugcrowd.com/wp-content/uploads/2023/12/bugcrowd-whats-a-bug-worth.pdf){:target="_blank"}
 
-Bugcrowd stuft nach Prioritäten P4 bis P1 ein. Die Zuordnung zu den CVSS-Bereichen ist meine Näherung. Für Systeme mit personenbezogenen, Gesundheits- oder Finanzdaten empfiehlt Bugcrowd höhere Beträge. Für APIs und mobile Apps liegen die Richtwerte ebenfalls höher.
+Bugcrowd stuft nach Prioritäten P4 bis P1 ein. Die Zuordnung zu den CVSS-Bereichen finden Sie unten in der Tabelle. Für Systeme mit personenbezogenen, Gesundheits- oder Finanzdaten empfiehlt Bugcrowd höhere Beträge. Für APIs und mobile Apps liegen die Richtwerte ebenfalls höher.
 
 #### Medianwerte auf Intigriti
 
@@ -72,4 +70,4 @@ So viel zahlen Unternehmen auf der Bug-Bounty-Plattform Intigriti im Median, ges
 
 Das Common Vulnerability Scoring System (CVSS) ist eine standardisierte Skala von 0,0 bis 10,0 zur Bewertung des Schweregrads einer Sicherheitslücke. Je höher der Wert, desto kritischer die Schwachstelle. Die Skala wird von FIRST (Forum of Incident Response and Security Teams) gepflegt.
 
-Einen guten interaktiven Rechner bietet [turingpoint](https://turingpoint.de/calculator/cvss-wizard/?version=3.1&step=1){:target="_blank"}. Er führt Schritt für Schritt durch die Bewertung nach CVSS 3.1.
+Einen guten interaktiven Rechner bietet [turingpoint](https://turingpoint.de/calculator/cvss-wizard/?version=3.1&step=1){:target="_blank"}. Er führt Schritt für Schritt durch die Bewertung einer Schwachstelle nach CVSS.
